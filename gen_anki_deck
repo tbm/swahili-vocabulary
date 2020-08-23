@@ -1,0 +1,36 @@
+#!/usr/bin/env python3
+"""
+Generate Anki deck with Swahili vocabulary based on the words in
+words.yaml.
+"""
+
+import random
+import yaml
+
+import genanki
+
+from models import VOCAB_REVERSE
+
+
+def main():
+    """
+    Generate Anki deck
+    """
+
+    deck = genanki.Deck(1597659028800, "Swahili Vocabulary")
+
+    with open("words.yaml") as word_file:
+        words = list(yaml.load_all(word_file, Loader=yaml.SafeLoader))
+        random.shuffle(words)
+        for word in words:
+            note = genanki.Note(
+                model=VOCAB_REVERSE, fields=[word["Swahili"], word["English"]])
+            deck.add_note(note)
+
+    output = "swahili.apkg"
+    genanki.Package(deck).write_to_file(output)
+    print(f"Created deck with {len(deck.notes)} flashcards")
+
+
+if __name__ == "__main__":
+    main()
