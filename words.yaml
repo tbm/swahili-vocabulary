@@ -118,8 +118,16 @@ Swahili: hapana
 English: "no"
 Tags: particle
 ---
+Swahili: la
+English: no (Tananzia)
+Tags: particle
+---
 Swahili: asante
 English: thanks
+---
+Swahili: shukrani
+Alternative: shukran
+English: thank you (formal)
 ---
 Swahili: na
 English: and
@@ -210,6 +218,7 @@ English: maize
 Tags: noun food
 ---
 Swahili: ugali
+Alternative: sima
 English: maize mash
 Tags: noun food
 ---
@@ -282,6 +291,7 @@ English: loan, credit
 Tags: noun money
 ---
 Swahili: pesa
+Alternative: hela
 English: money
 Tags: noun money
 ---
