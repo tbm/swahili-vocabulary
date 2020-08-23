@@ -24,7 +24,9 @@ def main():
         random.shuffle(words)
         for word in words:
             note = genanki.Note(
-                model=VOCAB_REVERSE, fields=[word["Swahili"], word["English"]])
+                model=VOCAB_REVERSE,
+                fields=[word["Swahili"], word["English"]],
+                tags=word.get("Tags"))
             deck.add_note(note)
 
     output = "swahili.apkg"

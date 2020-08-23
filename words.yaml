@@ -2,125 +2,179 @@
 Swahili: sifuri
 Alternative: sufuri
 English: zero
-Tags: noun number
+Tags:
+    - noun
+    - number
 ---
 Swahili: moja
 English: one
-Tags: noun number Bubble-Bath
+Tags:
+    - noun
+    - number
+    - Bubble-Bath
 ---
 Swahili: mbili
 English: two
-Tags: noun number Bubble-Bath
+Tags:
+    - noun
+    - number
+    - Bubble-Bath
 ---
 Swahili: tatu
 English: three
-Tags: noun number Bubble-Bath
+Tags:
+    - noun
+    - number
+    - Bubble-Bath
 ---
 Swahili: nne
 English: four
-Tags: noun number Bubble-Bath
+Tags:
+    - noun
+    - number
+    - Bubble-Bath
 ---
 Swahili: tano
 English: five
-Tags: noun number Bubble-Bath
+Tags:
+    - noun
+    - number
+    - Bubble-Bath
 ---
 Swahili: sita
 English: six
-Tags: noun number Bubble-Bath
+Tags:
+    - noun
+    - number
+    - Bubble-Bath
 ---
 Swahili: saba
 English: seven
-Tags: noun number Bubble-Bath
+Tags:
+    - noun
+    - number
+    - Bubble-Bath
 ---
 Swahili: nane
 English: eight
-Tags: noun number Bubble-Bath
+Tags:
+    - noun
+    - number
+    - Bubble-Bath
 ---
 Swahili: tisa
 English: nine
-Tags: noun number Bubble-Bath
+Tags:
+    - noun
+    - number
+    - Bubble-Bath
 ---
 Swahili: kumi
 English: ten
-Tags: noun number Bubble-Bath
+Tags:
+    - noun
+    - number
+    - Bubble-Bath
 ---
 Swahili: ishirini
 English: twenty
-Tags: number
+Tags:
+    - number
 ---
 Swahili: thelathini
 English: thirty
-Tags: number
+Tags:
+    - number
 ---
 Swahili: arobaini
 English: forty
-Tags: number
+Tags:
+    - number
 ---
 Swahili: hamsini
 English: fifty
-Tags: number
+Tags:
+    - number
 ---
 Swahili: sitini
 English: sixty
-Tags: number
+Tags:
+    - number
 ---
 Swahili: sabini
 English: seventy
-Tags: number
+Tags:
+    - number
 ---
 Swahili: themanini
 English: eighty
-Tags: number
+Tags:
+    - number
 ---
 Swahili: tisini
 English: ninety
-Tags: number
+Tags:
+    - number
 ---
 Swahili: mia
 English: hundred
-Tags: noun number
+Tags:
+    - noun
+    - number
 ---
 Swahili: elfu
 English: thousand
-Tags: noun number
+Tags:
+    - noun
+    - number
 ---
 Swahili: laki
 English: hundred thousand
-Tags: number
+Tags:
+    - number
 ---
 Swahili: milioni
 English: million
-Tags: noun number
+Tags:
+    - noun
+    - number
 ---
 Swahili: mimi
 English: I
-Tags: pronoun
+Tags:
+    - pronoun
 ---
 Swahili: wewe
 English: you (singular)
-Tags: pronoun
+Tags:
+    - pronoun
 ---
 Swahili: nyinyi
 Alternative: ninyi
 English: you (plural)
-Tags: pronoun
+Tags:
+    - pronoun
 ---
 Swahili: karibu
 English: welcome; come in; you're welcome; nearby
-Tags: greeting
+Tags:
+    - greeting
 ---
 Swahili: ndiyo
 Alternative: ndio
 English: "yes"
-Tags: particle
+Tags:
+    - particle
 ---
 Swahili: hapana
 English: "no"
-Tags: particle
+Tags:
+    - particle
 ---
 Swahili: la
 English: no (Tanzania)
-Tags: particle
+Tags:
+    - particle
 ---
 Swahili: asante
 English: thanks
@@ -131,148 +185,224 @@ English: thank you (formal)
 ---
 Swahili: na
 English: and
-Tags: conjunction
+Tags:
+    - conjunction
 ---
 Swahili: ya
 English: for
-Tags: particle
+Tags:
+    - particle
 ---
 Swahili: ngapi
 English: how much? how many?
 ---
 Swahili: mnyama
 English: animal
-Tags: noun
+Tags:
+    - noun
 ---
 Swahili: kuku
 English: chicken
-Tags: noun animal
+Tags:
+    - noun
+    - animal
 ---
 Swahili: nguruwe
 English: pig
-Tags: noun animal Bubble-Bath
+Tags:
+    - noun
+    - animal
+    - Bubble-Bath
 ---
 Swahili: ng'ombe
 English: cow
-Tags: noun animal Bubble-Bath
+Tags:
+    - noun
+    - animal
+    - Bubble-Bath
 ---
 Swahili: paka
 English: cat
-Tags: noun animal Bubble-Bath
+Tags:
+    - noun
+    - animal
+    - Bubble-Bath
 ---
 Swahili: mbwa
 English: dog
-Tags: noun animal Bubble-Bath
+Tags:
+    - noun
+    - animal
+    - Bubble-Bath
 ---
 Swahili: twiga
 English: giraffe
-Tags: noun animal
+Tags:
+    - noun
+    - animal
 ---
 Swahili: simba
 English: lion
-Tags: noun animal Bubble-Bath
+Tags:
+    - noun
+    - animal
+    - Bubble-Bath
 ---
 Swahili: punda
 English: donkey
-Tags: noun animal
+Tags:
+    - noun
+    - animal
 ---
 Swahili: punda milia
 English: zebra
-Tags: noun animal
+Tags:
+    - noun
+    - animal
 ---
 Swahili: tembo
 Alternative: ndovu
 English: elephant
-Tags: noun animal Bubble-Bath
+Tags:
+    - noun
+    - animal
+    - Bubble-Bath
 ---
 Swahili: panya
 English: mouse, rat
-Tags: noun animal Bubble-Bath
+Tags:
+    - noun
+    - animal
+    - Bubble-Bath
 ---
 Swahili: farasi
 English: horse
-Tags: noun animal Bubble-Bath
+Tags:
+    - noun
+    - animal
+    - Bubble-Bath
 ---
 Swahili: ndege
 English: bird, airplane Bubble-Bath
-Tags: noun animal
+Tags:
+    - noun
+    - animal
 ---
 Swahili: yai
 English: egg
-Tags: noun food
+Tags:
+    - noun
+    - food
 ---
 Swahili: mkate
 English: bread
-Tags: noun food
+Tags:
+    - noun
+    - food
 ---
 Swahili: maziwa
 English: milk
-Tags: noun food
+Tags:
+    - noun
+    - food
 ---
 Swahili: mandazi
 English: fried bread, African donut
-Tags: noun food
+Tags:
+    - noun
+    - food
 ---
 Swahili: mahindi
 English: maize
-Tags: noun food
+Tags:
+    - noun
+    - food
 ---
 Swahili: ugali
 Alternative: sima
 English: maize mash
-Tags: noun food
+Tags:
+    - noun
+    - food
 ---
 Swahili: nyama
 English: meat
-Tags: noun food
+Tags:
+    - noun
+    - food
 ---
 Swahili: nyama ya ng'ombe
 English: beef
-Tags: noun food
+Tags:
+    - noun
+    - food
 ---
 Swahili: nyama ya nguruwe
 English: pork
-Tags: noun food
+Tags:
+    - noun
+    - food
 ---
 Swahili: tunda
 English: fruit
-Tags: noun food
+Tags:
+    - noun
+    - food
 ---
 Swahili: nazi
 English: coconut
-Tags: noun food
+Tags:
+    - noun
+    - food
 ---
 Swahili: maji
 English: water
-Tags: noun food
+Tags:
+    - noun
+    - food
 ---
 Swahili: maji ya nazi
 English: coconut water
-Tags: noun food
+Tags:
+    - noun
+    - food
 ---
 Swahili: chai
 English: tea
-Tags: noun food
+Tags:
+    - noun
+    - food
 ---
 Swahili: kahawa
 English: coffee
-Tags: noun food
+Tags:
+    - noun
+    - food
 ---
 Swahili: menyu
 English: menu
-Tags: noun food
+Tags:
+    - noun
+    - food
 ---
 Swahili: samaki
 English: fish
-Tags: noun food Bubble-Bath
+Tags:
+    - noun
+    - food
+    - Bubble-Bath
 ---
 Swahili: pilipili
 English: pepper
-Tags: noun food
+Tags:
+    - noun
+    - food
 ---
 Swahili: chumvi
 English: salt
-Tags: noun food
+Tags:
+    - noun
+    - food
 ---
 Swahili: nyanya
 English: tomato; grandmother (Kenya)
@@ -307,195 +437,274 @@ English: card
 Swahili: kadi ya mkopo
 Alternative: kadi ya kredit
 English: credit card
-Tags: noun money
+Tags:
+    - noun
+    - money
 ---
 Swahili: mkopo
 English: loan, credit
-Tags: noun money
+Tags:
+    - noun
+    - money
 ---
 Swahili: pesa
 Alternative: hela
 English: money
-Tags: noun money
+Tags:
+    - noun
+    - money
 ---
 Swahili: nyumba
 English: house
-Tags: noun place
+Tags:
+    - noun
+    - place
 ---
 Swahili: nyumbani
 English: home
-Tags: noun place
+Tags:
+    - noun
+    - place
 ---
 Swahili: chumba
 English: room
-Tags: noun place
+Tags:
+    - noun
+    - place
 ---
 Swahili: hoteli
 English: hotel
-Tags: noun place tourism
+Tags:
+    - noun
+    - place
+    - tourism
 ---
 Swahili: lifti
 English: elevator
-Tags: noun place
+Tags:
+    - noun
+    - place
 ---
 Swahili: jiji
 English: city
-Tags: noun place
+Tags:
+    - noun
+    - place
 ---
 Swahili: mji
 English: town, village
-Tags: noun place
+Tags:
+    - noun
+    - place
 ---
 Swahili: kushoto
 English: left
-Tags: place
+Tags:
+    - place
 ---
 Swahili: kulia (adverb)
 English: right
-Tags: place
+Tags:
+    - place
 ---
 Swahili: kulia (verb)
 English: to cry
 ---
 Swahili: magharibi
 English: west, sunset, dusk
-Tags: place time
+Tags:
+    - place
+    - time
 ---
 Swahili: mashariki
 English: east, dawn
-Tags: place time
+Tags:
+    - place
+    - time
 ---
 Swahili: kaskazini
 English: north
-Tags: place
+Tags:
+    - place
 ---
 Swahili: kusini
 English: south
-Tags: place
+Tags:
+    - place
 ---
 Swahili: sekunde
 English: second
-Tags: noun time
+Tags:
+    - noun
+    - time
 ---
 Swahili: dakika
 English: minute
-Tags: noun time
+Tags:
+    - noun
+    - time
 ---
 Swahili: saa
 English: time, hour, clock, o'clock
-Tags: noun time
+Tags:
+    - noun
+    - time
 ---
 Swahili: siku
 English: day
-Tags: noun time
+Tags:
+    - noun
+    - time
 ---
 Swahili: wiki
 Alternative: juma
 English: week
-Tags: noun time
+Tags:
+    - noun
+    - time
 ---
 Swahili: mwezi
 English: month, moon, menstruation
-Tags: noun time sex
+Tags:
+    - noun
+    - time
+    - sex
 ---
 Swahili: mwaka
 English: year
-Tags: noun time
+Tags:
+    - noun
+    - time
 ---
 Swahili: sasa
 English: now
-Tags: adverb time
+Tags:
+    - adverb
+    - time
 ---
 Swahili: leo
 English: today
-Tags: adverb time
+Tags:
+    - adverb
+    - time
 ---
 Swahili: kesho
 English: tomorrow
-Tags: adverb time
+Tags:
+    - adverb
+    - time
 ---
 Swahili: jana
 English: yesterday, last
-Tags: noun time
+Tags:
+    - noun
+    - time
 ---
 Swahili: asubuhi
 English: morning
-Tags: time
+Tags:
+    - time
 ---
 Swahili: adhuhuri
 English: midday, noon
-Tags: time
+Tags:
+    - time
 ---
 Swahili: mchana
 English: afternoon, daytime
-Tags: time
+Tags:
+    - time
 ---
 Swahili: alasiri
 English: late afternoon
-Tags: time
+Tags:
+    - time
 ---
 Swahili: jioni
 English: evening
-Tags: time
+Tags:
+    - time
 ---
 Swahili: usiku
 English: night, nighttime
-Tags: time
+Tags:
+    - time
 ---
 Swahili: lala
 English: sleep
-Tags: noun
+Tags:
+    - noun
 ---
 Swahili: rafiki
 English: friend
-Tags: noun
+Tags:
+    - noun
 ---
 Swahili: mgeni
 English: guest, stranger, foreigner
-Tags: noun travel
+Tags:
+    - noun
+    - travel
 ---
 Swahili: mzungu
 English: European, white person
-Tags: noun travel
+Tags:
+    - noun
+    - travel
 ---
 Swahili: jua
 English: sun (noun), to know
-Tags: noun
+Tags:
+    - noun
 ---
 Swahili: Kenya
 English: Kenya
-Tags: noun place
+Tags:
+    - noun
+    - place
 ---
 Swahili: Tanzania
 English: Tanzania
-Tags: noun place
+Tags:
+    - noun
+    - place
 ---
 Swahili: Mkenya
 English: Kenyan
-Tags: noun place
+Tags:
+    - noun
+    - place
 ---
 Swahili: Mtanzania
 English: Tanzanian
-Tags: noun place
+Tags:
+    - noun
+    - place
 ---
 Swahili: Kiswahili
 English: Swahili
-Tags: noun travel
+Tags:
+    - noun
+    - travel
 ---
 Swahili: Kiingereza
 English: English language
-Tags: noun travel
+Tags:
+    - noun
+    - travel
 ---
 Swahili: kutoka
 English: from
 ---
 Swahili: daktari
 English: doctor
-Tags: medical
+Tags:
+    - medical
 ---
 Swahili: hospitali
 English: hospital
-Tags: medical
+Tags:
+    - medical
 ---
 Swahili: msaada
 English: help
@@ -505,7 +714,8 @@ English: emergency
 ---
 Swahili: sana
 English: a lot, much
-Tags: adverb
+Tags:
+    - adverb
 ---
 Swahili: kubwa
 English: big, large, loud
@@ -560,16 +770,21 @@ English: car
 ---
 Swahili: kuma
 English: vagina, cunt
-Tags: slang sex
+Tags:
+    - slang
+    - sex
 ---
 Swahili: kahaba
 English: prostitute
-Tags: sex
+Tags:
+    - sex
 ---
 Swahili: ukahaba
 English: prostitution
-Tags: sex
+Tags:
+    - sex
 ---
 Swahili: malaya
 English: slang for prostitute; hooker
-Tags: sex
+Tags:
+    - sex
