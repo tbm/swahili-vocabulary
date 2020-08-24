@@ -289,6 +289,18 @@ Tags:
     - animal
     - Bubble-Bath
 ---
+Swahili: chakula
+English: food
+Tags:
+    - noun
+    - food
+---
+Swahili: kinywaji
+English: drink (noun), beverage
+Tags:
+    - noun
+    - food
+---
 Swahili: yai
 English: egg
 Tags:
@@ -458,6 +470,12 @@ English: money
 Tags:
     - noun
     - money
+---
+Swahili: bob
+English: money (500 bob = 500 shilling) (informal)
+Tags:
+    - money
+    - slang
 ---
 Swahili: nyumba
 English: house
@@ -634,6 +652,14 @@ Swahili: usiku
 English: night, nighttime
 Tags:
     - time
+---
+Swahili: kalenda
+English: calendar
+Tags:
+    - time
+---
+Swahili: kitabu
+English: book
 ---
 Swahili: lala
 English: sleep
@@ -827,8 +853,20 @@ Swahili: runinga
 Alternative: televisheni
 English: television
 ---
+Swahili: matatu
+English: minivan shared taxi (Kenya)
+Tags:
+    - travel
+---
+Swahili: daladala
+English: minivan shared taxi (Tanzania)
+Tags:
+    - travel
+---
 Swahili: gari
 English: car
+Tags:
+    - travel
 ---
 Swahili: kuma
 English: vagina, cunt
