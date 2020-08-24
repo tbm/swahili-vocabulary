@@ -287,6 +287,7 @@ English: bird, airplane
 Tags:
     - noun
     - animal
+    - travel
     - Bubble-Bath
 ---
 Swahili: chakula
@@ -501,6 +502,8 @@ Tags:
     - noun
     - place
     - tourism
+    - travel
+    - Bubble-Bath
 ---
 Swahili: lifti
 English: elevator
@@ -867,6 +870,7 @@ Swahili: gari
 English: car
 Tags:
     - travel
+    - Bubble-Bath
 ---
 Swahili: kuma
 English: vagina, cunt
@@ -888,3 +892,53 @@ Swahili: malaya
 English: slang for prostitute; hooker
 Tags:
     - sex
+---
+Swahili: teksi
+English: taxi
+Tags:
+    - travel
+    - Bubble-Bath
+---
+Swahili: treni
+Alternative: garimoshi (old fashioned word)
+English: train
+Tags:
+    - travel
+    - Bubble-Bath
+---
+Swahili: stesheni
+English: station (stop), station (broadcaster)
+---
+Swahili: stesheni ya treni
+English: train station
+Tags:
+    - travel
+    - Bubble-Bath
+---
+Swahili: uwanja
+English: area, field, ground
+---
+Swahili: uwanja wa ndege
+English: airport
+Tags:
+    - travel
+    - Bubble-Bath
+---
+Swahili: basi
+English: bus
+Tags:
+    - travel
+    - Bubble-Bath
+---
+Swahili: paspoti
+Alternative: pasipoti
+English: passport
+Tags:
+    - travel
+    - Bubble-Bath
+---
+Swahili: tiketi
+English: ticket
+Tags:
+    - travel
+    - Bubble-Bath
