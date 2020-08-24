@@ -12,5 +12,5 @@ The script `gen_anki_deck` will create the Anki deck `swahili.apkg`.
 
 ### Learn Swahili Bubble Bath Game
 
-A fun way to practice words is the [Learn Swahili Bubble Bath Game](https://play.google.com/store/apps/details?id=com.overpass.swahilibubblebathlite) on Android.  Words needed to play this game are tagged with `Bubble-Bath`.  Only numbers and animals are supported so far.
+A fun way to practice words is the [Learn Swahili Bubble Bath Game](https://play.google.com/store/apps/details?id=com.overpass.swahilibubblebathlite) on Android.  Words needed to play this game are tagged with `Bubble-Bath`.  Only some areas from the game are supported so far.
 
