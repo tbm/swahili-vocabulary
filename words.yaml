@@ -407,6 +407,10 @@ Tags:
 ---
 Swahili: nyanya
 English: tomato; grandmother (Kenya)
+Tags:
+    - noun
+    - food
+    - family
 ---
 Swahili: uma
 English: fork (to eat)
@@ -652,6 +656,62 @@ English: European, white person
 Tags:
     - noun
     - travel
+---
+Swahili: familia
+English: family
+Tags:
+    - family
+---
+Swahili: babu
+English: grandfather
+Tags:
+    - family
+---
+Swahili: bibi
+English: grandmother, Mrs
+Tags:
+    - family
+---
+Swahili: mzazi
+English: parent
+Tags:
+    - family
+---
+Swahili: baba
+English: father
+Tags:
+    - family
+---
+Swahili: mama
+English: mother
+Tags:
+    - family
+---
+Swahili: kaka
+English: brother
+Tags:
+    - family
+---
+Swahili: dada
+English: sister
+Tags:
+    - family
+---
+Swahili: ndugu
+English: sibling, relative
+Tags:
+    - family
+---
+Swahili: mtoto
+English: child, baby
+Tags:
+    - family
+---
+Swahili: mvulana
+English: boy
+---
+Swahili: msichana
+English: girl
 ---
 Swahili: jua
 English: sun (noun), to know
