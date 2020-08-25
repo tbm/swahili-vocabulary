@@ -139,6 +139,16 @@ Tags:
     - noun
     - number
 ---
+Swahili: mosi
+English: one (used as an abstract value as in "the number one")
+Tags:
+    - number
+---
+Swahili: pili
+English: second
+Tags:
+    - number
+---
 Swahili: mimi
 English: I
 Tags:
@@ -676,6 +686,48 @@ Tags:
 ---
 Swahili: Desemba
 English: December
+Tags:
+    - noun
+    - time
+---
+Swahili: Jumatatu
+English: Monday
+Tags:
+    - noun
+    - time
+---
+Swahili: Jumanne
+English: Tuesday
+Tags:
+    - noun
+    - time
+---
+Swahili: Jumatano
+English: Wednesday
+Tags:
+    - noun
+    - time
+---
+Swahili: Alhamisi
+English: Thursday
+Tags:
+    - noun
+    - time
+---
+Swahili: Ijumaa
+English: Friday
+Tags:
+    - noun
+    - time
+---
+Swahili: Jumamosi
+English: Saturday
+Tags:
+    - noun
+    - time
+---
+Swahili: Jumapili
+English: Sunday
 Tags:
     - noun
     - time
