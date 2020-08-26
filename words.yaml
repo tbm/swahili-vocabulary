@@ -879,6 +879,12 @@ Tags:
     - noun
     - travel
 ---
+Swahili: binadamu
+English: human being
+---
+Swahili: mtu
+English: person, someone
+---
 Swahili: familia
 English: family
 Tags:
@@ -934,6 +940,47 @@ English: boy
 ---
 Swahili: msichana
 English: girl
+---
+Swahili: mwanamume
+English: man (male)
+Tags:
+    - family
+---
+Swahili: mwanamke
+English: woman
+Tags:
+    - family
+---
+Swahili: mume
+English: "husband, contraction of mwanamume: man"
+Tags:
+    - family
+---
+Swahili: mke
+English: "wife, contraction of mwanamke: woman"
+Tags:
+    - family
+---
+Swahili: binti
+English: daughter, pretty girl (Tanzania)
+Tags:
+    - family
+---
+Swahili: talaka
+English: divorce
+Tags:
+    - family
+---
+Swahili: ndoa
+English: marriage
+Tags:
+    - family
+---
+Swahili: harusi
+Alternative: arusi
+English: wedding
+Tags:
+    - family
 ---
 Swahili: jua
 English: sun (noun), to know
