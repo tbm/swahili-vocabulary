@@ -145,7 +145,7 @@ Tags:
     - number
 ---
 Swahili: pili
-English: second
+English: second (numeral, not time)
 Tags:
     - number
 ---
@@ -483,7 +483,7 @@ Tags:
     - money
 ---
 Swahili: bob
-English: money (500 bob = 500 shilling) (informal)
+English: slang for shilling
 Tags:
     - money
     - slang
@@ -936,7 +936,7 @@ Swahili: dharura
 English: emergency
 ---
 Swahili: sana
-English: a lot, much
+English: very, extremely, a lot, much
 Tags:
     - adverb
 ---
@@ -982,7 +982,7 @@ English: phone number
 Swahili: mtandao
 English: network, Internet
 ---
-Swahili: wi-fi
+Swahili: wifi
 English: wifi
 ---
 Swahili: runinga
@@ -994,7 +994,7 @@ English: minivan shared taxi (Kenya)
 Tags:
     - travel
 ---
-Swahili: daladala
+Swahili: daladala, dala dala
 English: minivan shared taxi (Tanzania)
 Tags:
     - travel
