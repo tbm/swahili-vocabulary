@@ -311,6 +311,12 @@ Tags:
     - noun
     - food
 ---
+Swahili: chakula cha haraka
+English: fast food
+Tags:
+    - noun
+    - food
+---
 Swahili: kinywaji
 English: drink (noun), beverage
 Tags:
@@ -506,6 +512,16 @@ English: spoon (Western-style metal spoon)
 ---
 Swahili: mwiko
 English: spoon (African-style large, wooden spoon)
+---
+Swahili: sahani
+English: plate (for food)
+---
+Swahili: glasi
+Alternative: bilauri
+English: glass (for drinking)
+---
+Swahili: kioo
+English: mirror, glass (not a drinking glass!)
 ---
 Swahili: swali
 English: question
@@ -1056,6 +1072,9 @@ English: small
 Swahili: kidogo
 English: little
 ---
+Swahili: haraka
+English: hurry, haste, speed; fast; quickly
+---
 Swahili: ghali
 English: expensive
 ---
@@ -1083,8 +1102,14 @@ English: number
 Swahili: simu
 English: phone
 ---
+Swahili: simu za rununu
+English: mobile phone, cell phone
+---
 Swahili: nambari ya simu
 English: phone number
+---
+Swahili: intaneti
+English: Internet
 ---
 Swahili: mtandao
 English: network, Internet
@@ -1095,6 +1120,59 @@ English: wifi
 Swahili: runinga
 Alternative: televisheni
 English: television
+---
+Swahili: kompyuta
+Alternative: tarakilishi
+English: computer
+---
+Swahili: neno
+English: word
+---
+Swahili: karatasi
+English: paper
+---
+Swahili: barua
+English: letter
+---
+Swahili: barua pepe
+English: email
+---
+Swahili: barua ya ndege
+English: airmail
+---
+Swahili: stempu
+English: stamp
+---
+Swahili: posta
+English: post office
+---
+Swahili: postikadi
+English: postcard
+---
+Swahili: wazi
+English: open
+---
+Swahili: tafsiri
+English: translation, interpretation
+---
+Swahili: habari
+English: news
+---
+Swahili: likizo
+English: holiday, vacation
+Tags:
+    - travel
+---
+Swahili: ramani
+English: map
+Tags:
+    - travel
+---
+Swahili: barabara
+English: road
+---
+Swahili: polisi
+English: police
 ---
 Swahili: matatu
 English: minivan shared taxi (Kenya)
