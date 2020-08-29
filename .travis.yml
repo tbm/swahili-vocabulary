@@ -11,4 +11,5 @@ install:
   - pip install -r requirements.txt
 script:
   - find -name "*.yml" -exec yamllint -s {} \;
+  - find -name "*.yaml" -exec yamllint -s {} \;
   - ./gen_anki_deck
