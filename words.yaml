@@ -1295,8 +1295,10 @@ English: very, extremely, a lot, much
 Tags:
     - adverb
 ---
-Swahili: kubwa
+Swahili: -kubwa
 English: big, large, loud
+Tags:
+    - adjective
 ---
 Swahili: -dogo
 English: small
@@ -1312,8 +1314,10 @@ English: expensive
 Swahili: nafuu
 English: cheap
 ---
-Swahili: tamu
+Swahili: -tamu
 English: delicious, sweet
+Tags:
+    - adjective
 ---
 Swahili: ladha
 English: taste
