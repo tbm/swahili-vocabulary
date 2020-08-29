@@ -1298,11 +1298,10 @@ Tags:
 Swahili: kubwa
 English: big, large, loud
 ---
-Swahili: ndogo
+Swahili: -dogo
 English: small
----
-Swahili: kidogo
-English: little
+Tags:
+    - adjective
 ---
 Swahili: haraka
 English: hurry, haste, speed; fast; quickly
@@ -1321,12 +1320,18 @@ English: taste
 ---
 Swahili: -ingi
 English: much; a lot of; many
+Tags:
+    - adjective
 ---
 Swahili: -zuri
 English: good, nice, pretty, beautiful
+Tags:
+    - adjective
 ---
 Swahili: -baya
 English: bad, evil, (condition) poor
+Tags:
+    - adjective
 ---
 Swahili: nambari
 English: number
