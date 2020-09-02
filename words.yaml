@@ -497,6 +497,12 @@ Tags:
     - noun
     - food
 ---
+Swahili: mboga
+English: vegetable
+Tags:
+    - noun
+    - food
+---
 Swahili: nyanya
 English: tomato; grandmother (Kenya)
 Tags:
@@ -530,6 +536,9 @@ English: spoon (African-style large, wooden spoon)
 ---
 Swahili: sahani
 English: plate (for food)
+---
+Swahili: chupa
+English: bottle
 ---
 Swahili: glasi
 Alternative: bilauri
@@ -579,6 +588,12 @@ Tags:
     - money
     - slang
 ---
+Swahili: benki
+English: bank (financial institution)
+Tags:
+    - noun
+    - money
+---
 Swahili: nyumba
 English: house
 Tags:
@@ -606,6 +621,67 @@ Tags:
     - travel
     - Bubble-Bath
 ---
+Swahili: msala
+English: bathroom
+Tags:
+    - noun
+    - place
+---
+Swahili: choo
+English: toilet, excrement
+Tags:
+    - noun
+    - place
+---
+Swahili: -oga
+English: to wash oneself, to bathe
+Tags:
+    - verb
+---
+Swahili: -chafu
+English: dirty
+---
+Swahili: uchafu
+English: dirtiness
+---
+Swahili: -safisha
+English: to clean
+Tags:
+    - verb
+---
+Swahili: safi/-safi
+English: clean, pure
+---
+Swahili: usafi
+English: cleanliness, purity
+---
+Swahili: sabuni
+English: soap
+---
+Swahili: marashi
+English: perfume
+---
+Swahili: meza
+English: table (furniture)
+---
+Swahili: dawati
+English: desk (table), bureau
+---
+Swahili: kiti
+English: chair, seat
+---
+Swahili: kitanda
+English: bed
+---
+Swahili: mto
+English: river, pillow
+---
+Swahili: sakafu
+English: floor
+Tags:
+    - noun
+    - place
+---
 Swahili: lifti
 English: elevator
 Tags:
@@ -620,6 +696,12 @@ Tags:
 ---
 Swahili: mji
 English: town, village
+Tags:
+    - noun
+    - place
+---
+Swahili: kijiji
+English: village
 Tags:
     - noun
     - place
