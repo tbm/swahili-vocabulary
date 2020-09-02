@@ -542,7 +542,7 @@ Swahili: swali
 English: question
 ---
 Swahili: jibu
-English: answer
+English: answer, reply, response
 ---
 Swahili: shida
 English: problem
@@ -1236,7 +1236,7 @@ Tags:
     - verb
 ---
 Swahili: takataka
-English: dirt, garbage
+English: garbage
 ---
 Swahili: -acha
 English: to leave, to cease, to allow
@@ -1244,7 +1244,7 @@ Tags:
     - verb
 ---
 Swahili: toka
-English: from somewhere/somewhen/something
+English: from somewhere, somewhen, something
 ---
 Swahili: -toka
 English: to go out, to exit; to come from; to leave (to depart from)
