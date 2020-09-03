@@ -223,6 +223,61 @@ English: for
 Tags:
     - particle
 ---
+Swahili: au
+Alternative: ama
+English: or
+---
+Swahili: lakini
+English: but
+---
+Swahili: bali
+English: however, on the contrary; but instead
+---
+Swahili: shati
+English: shirt
+---
+Swahili: zawadi
+English: gift, present
+---
+Swahili: njaa
+English: hunger
+---
+Swahili: kiu
+English: thirst
+---
+Swahili: dawa
+English: medicine, drugs
+---
+Swahili: virusi
+English: virus
+---
+Swahili: jino
+English: tooth
+---
+Swahili: dawa ya meno
+English: toothpaste
+---
+Swahili: mdudu
+English: insect
+---
+Swahili: -tulia
+English: to relax
+---
+Swahili: mwalimu
+English: teacher
+---
+Swahili: soko
+English: market
+---
+Swahili: muda
+English: term, period (of time)
+---
+Swahili: bado
+English: still, not yet
+---
+Swahili: bado kidogo
+English: presently; at the moment
+---
 Swahili: ngapi
 English: how much? how many?
 ---
@@ -582,6 +637,12 @@ Tags:
     - noun
     - money
 ---
+Swahili: fedha
+English: money, silver
+Tags:
+    - noun
+    - money
+---
 Swahili: bob
 English: slang for shilling
 Tags:
@@ -620,6 +681,27 @@ Tags:
     - tourism
     - travel
     - Bubble-Bath
+---
+Swahili: ghorofa
+English: storey, floor (level of a building)
+---
+Swahili: chini
+English: below (in a lower place), down (from a high to a low position, downwards)
+---
+Swahili: ghorofa la chini
+English: ground floor
+Tags:
+    - noun
+    - place
+---
+Swahili: juu (adverb)
+English: up, above (away from earth's centre); (by extension) about
+---
+Swahili: juu (noun)
+English: top, upper part
+---
+Swahili: juu ya
+English: concerning, regarding, about
 ---
 Swahili: msala
 English: bathroom
@@ -675,6 +757,57 @@ English: bed
 ---
 Swahili: mto
 English: river, pillow
+---
+Swahili: anga
+English: sky
+---
+Swahili: nyasi
+English: grass
+---
+Swahili: mti
+English: tree, pole, wood
+---
+Swahili: kijiti
+English: stick, branch
+---
+Swahili: pwani
+English: beach
+---
+Swahili: bahari
+English: ocean, sea
+---
+Swahili: jangwa
+English: desert
+---
+Swahili: kisiwa
+English: island
+---
+Swahili: chombo
+English: sailing vessel; vessel (container for liquids); a dish more generally (like plates or pots)
+---
+Swahili: ziwa
+English: lake, breast
+---
+Swahili: titi
+English: breast (female)
+---
+Swahili: kichwa
+English: head
+---
+Swahili: mkono
+English: hand, arm
+---
+Swahili: mkono wa kulia
+English: right hand ("eating hand")
+---
+Swahili: mkono wa kushoto
+English: left hand
+---
+Swahili: mgongo
+English: back (the rear of the body)
+---
+Swahili: ukingo
+English: border, edge
 ---
 Swahili: sakafu
 English: floor (lower part of a room)
@@ -1010,10 +1143,16 @@ English: grandfather
 Tags:
     - family
 ---
+Swahili: bwana
+English: mister, Mr, master, lord, boss
+---
 Swahili: bibi
 English: grandmother, Mrs
 Tags:
     - family
+---
+Swahili: bi
+English: Mrs
 ---
 Swahili: mzazi
 English: parent
