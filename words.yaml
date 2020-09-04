@@ -757,6 +757,9 @@ English: bed
 ---
 Swahili: mto
 English: river, pillow
+Tags:
+    - noun
+    - place
 ---
 Swahili: anga
 English: sky
@@ -772,21 +775,36 @@ English: stick, branch
 ---
 Swahili: pwani
 English: beach
+Tags:
+    - noun
+    - place
 ---
 Swahili: bahari
 English: ocean, sea
+Tags:
+    - noun
+    - place
 ---
 Swahili: jangwa
 English: desert
+Tags:
+    - noun
+    - place
 ---
 Swahili: kisiwa
 English: island
+Tags:
+    - noun
+    - place
 ---
 Swahili: chombo
 English: sailing vessel; vessel (container for liquids); a dish more generally (like plates or pots)
 ---
 Swahili: ziwa
 English: lake, breast
+Tags:
+    - noun
+    - place
 ---
 Swahili: titi
 English: breast (female)
