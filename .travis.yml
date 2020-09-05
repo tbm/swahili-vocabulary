@@ -12,4 +12,5 @@ install:
 script:
   - find -name "*.yml" -exec yamllint -s {} \;
   - find -name "*.yaml" -exec yamllint -s {} \;
-  - ./gen_anki_deck
+  - ./gen_anki_grammar
+  - ./gen_anki_vocabulary

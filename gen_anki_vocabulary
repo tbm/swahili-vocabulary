@@ -29,7 +29,7 @@ def main():
                 tags=word.get("Tags"))
             deck.add_note(note)
 
-    output = "swahili.apkg"
+    output = "swahili-vocabulary.apkg"
     genanki.Package(deck).write_to_file(output)
     print(f"Created deck with {len(deck.notes)} flashcards")
 

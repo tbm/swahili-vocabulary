@@ -6,7 +6,7 @@ The aim is to collect common words to generate Anki flash cards.  The aim is not
 
 ## Usage
 
-The script `gen_anki_deck` will create the Anki deck `swahili.apkg`.
+The script `gen_anki_vocabulary` will create the Anki deck `swahili-vocabulary.apkg`.
 
 ## Learn
 
