@@ -37,17 +37,20 @@ VOCAB_REVERSE = genanki.Model(
         {
             "name": "English",
         },
+        {
+            "name": "Swahili_Audio",
+        },
     ],
     templates=[
         {
             "name": "Vocabulary Card (front)",
-            "qfmt": "{{Swahili}}",
+            "qfmt": "{{Swahili}}<br />{{Swahili_Audio}}",
             "afmt": "{{FrontSide}}<hr id=\"answer\">{{English}}",
         },
         {
             "name": "Vocabulary Card (back)",
             "qfmt": "{{English}}",
-            "afmt": "{{FrontSide}}<hr id=\"answer\">{{Swahili}}",
+            "afmt": "{{FrontSide}}<hr id=\"answer\">{{Swahili}}<br />{{Swahili_Audio}}",
         },
     ],
     css=STYLE,

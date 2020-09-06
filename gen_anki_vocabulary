@@ -9,7 +9,18 @@ import yaml
 
 import genanki
 
+from common import get_audio
 from models import VOCAB_REVERSE
+
+
+class VocabNote(genanki.Note):
+    """
+    The Swahili audio shouldn't influence the GUID
+    """
+
+    @property
+    def guid(self):
+        return genanki.guid_for(self.fields[0], self.fields[1])
 
 
 def main():
@@ -19,18 +30,22 @@ def main():
 
     deck = genanki.Deck(1597659028800, "Swahili Vocabulary")
 
+    output = "swahili-vocabulary.apkg"
+    swahili = genanki.Package(deck)
     with open("words.yaml") as word_file:
         words = list(yaml.load_all(word_file, Loader=yaml.SafeLoader))
         random.shuffle(words)
         for word in words:
-            note = genanki.Note(
+            audio = get_audio(word["Swahili"])
+            if audio:
+                swahili.media_files.append(audio)
+                audio = f"[sound:{audio.name}]"
+            note = VocabNote(
                 model=VOCAB_REVERSE,
-                fields=[word["Swahili"], word["English"]],
+                fields=[word["Swahili"], word["English"], audio],
                 tags=word.get("Tags"))
             deck.add_note(note)
-
-    output = "swahili-vocabulary.apkg"
-    genanki.Package(deck).write_to_file(output)
+    swahili.write_to_file(output)
     print(f"Created deck with {len(deck.notes)} flashcards")
 
 
