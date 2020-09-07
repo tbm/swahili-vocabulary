@@ -655,6 +655,57 @@ Tags:
     - noun
     - money
 ---
+Swahili: bara
+English: continent; mainline
+Tags:
+    - noun
+    - place
+---
+Swahili: nchi
+English: country; earth
+Tags:
+    - noun
+    - place
+---
+Swahili: mkoa
+English: province, region
+Tags:
+    - noun
+    - place
+---
+Swahili: jimbo
+English: state, province
+Tags:
+    - noun
+    - place
+---
+Swahili: mtaa
+English: a street, a suburb, a neighbourhood
+Tags:
+    - noun
+    - place
+---
+Swahili: kona
+English: corner; a bend or turn
+Tags:
+    - noun
+    - place
+---
+Swahili: geuka
+English: a turn, turnaround
+Tags:
+    - noun
+    - place
+---
+Swahili: geuka kulia
+English: right turn
+---
+Swahili: geuka kushoto
+English: left turn
+---
+Swahili: geuka kwa kona
+English: turn a corner
+---
 Swahili: nyumba
 English: house
 Tags:
@@ -702,6 +753,12 @@ English: top, upper part
 ---
 Swahili: juu ya
 English: concerning, regarding, about
+---
+Swahili: chumba cha kulala
+English: bedroom
+Tags:
+    - noun
+    - place
 ---
 Swahili: msala
 English: bathroom
@@ -1767,6 +1824,7 @@ Tags:
 ---
 Swahili: barabara
 English: road
+    - place
 ---
 Swahili: polisi
 English: police
