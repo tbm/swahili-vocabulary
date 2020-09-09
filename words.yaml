@@ -263,6 +263,33 @@ English: hunger
 Swahili: kiu
 English: thirst
 ---
+Swahili: lishe
+English: nutrition, diet
+---
+Swahili: -a lishe
+English: nutritious
+---
+Swahili: jina
+English: name; (grammar) noun
+---
+Swahili: filamu
+English: film, video
+---
+Swahili: mlinzi
+English: guard; defender
+---
+Swahili: shabiki
+English: fan (admirer)
+---
+Swahili: wizi
+English: theft
+---
+Swahili: mwizi
+English: thief
+---
+Swahili: alama
+English: sign, symbol
+---
 Swahili: dawa
 English: medicine, drugs
 ---
@@ -284,11 +311,42 @@ English: to relax
 Swahili: mwalimu
 English: teacher
 ---
+Swahili: shule
+Alternative: skule
+English: school
+---
+Swahili: elimu
+English: education; knowledge
+---
+Swahili: sayansi
+English: science
+---
+Swahili: historia
+English: history
+---
+Swahili: jiografia
+English: geography
+---
+Swahili: mwana
+English: child; (in compounds) someone who does or has a relation to something
+---
+Swahili: mwanafunzi
+English: student, disciple
+---
+Swahili: mwanagenzi
+English: beginner, greenhorn, amateur
+---
+Swahili: mwananchi
+English: citizen
+---
 Swahili: soko
 English: market
 ---
 Swahili: muda
 English: term, period (of time)
+---
+Swahili: pia
+English: also; all
 ---
 Swahili: bado
 English: still, not yet
@@ -673,6 +731,12 @@ Tags:
     - noun
     - money
 ---
+Swahili: akaunti
+English: account
+---
+Swahili: akaunti ya benki
+English: bank account
+---
 Swahili: bara
 English: continent; mainland
 Tags:
@@ -868,6 +932,12 @@ English: chair, seat
 ---
 Swahili: kitanda
 English: bed
+---
+Swahili: fanicha
+English: furniture
+---
+Swahili: meza ya kukulia
+English: dinner table
 ---
 Swahili: mto
 English: river, pillow
@@ -1266,6 +1336,7 @@ Tags:
     - travel
 ---
 Swahili: binadamu
+Alternative: mwanadamu
 English: human being
 ---
 Swahili: mtu
