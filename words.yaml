@@ -382,6 +382,36 @@ Tags:
     - animal
     - Bubble-Bath
 ---
+Swahili: mbuzi
+English: goat
+Tags:
+    - noun
+    - animal
+---
+Swahili: buzi
+English: big goat; sugar daddy (slang, Tanzania)
+Tags:
+    - noun
+    - animal
+---
+Swahili: mwanambuzi
+English: kid (young goat)
+Tags:
+    - noun
+    - animal
+---
+Swahili: kondoo
+English: sheep
+Tags:
+    - noun
+    - animal
+---
+Swahili: mwanakondoo
+English: lamb
+Tags:
+    - noun
+    - animal
+---
 Swahili: paka
 English: cat
 Tags:
@@ -463,6 +493,9 @@ Tags:
     - noun
     - food
 ---
+Swahili: kiamsha kinywa
+English: breakfast
+---
 Swahili: kinywaji
 English: drink (noun), beverage
 Tags:
@@ -506,6 +539,18 @@ Tags:
     - noun
     - food
 ---
+Swahili: mchele
+English: raw rice
+Tags:
+    - noun
+    - food
+---
+Swahili: wali
+English: cooked rice
+Tags:
+    - noun
+    - food
+---
 Swahili: nyama
 English: meat
 Tags:
@@ -536,6 +581,18 @@ Tags:
     - noun
     - food
 ---
+Swahili: nanasi
+English: pineapple
+Tags:
+    - noun
+    - food
+---
+Swahili: parachichi
+English: avocado
+Tags:
+    - noun
+    - food
+---
 Swahili: maji
 English: water
 Tags:
@@ -550,6 +607,18 @@ Tags:
 ---
 Swahili: chai
 English: tea
+Tags:
+    - noun
+    - food
+---
+Swahili: chai ya rangi
+English: tea without milk, black tea
+Tags:
+    - noun
+    - food
+---
+Swahili: chai ya maziwa
+English: milk tea
 Tags:
     - noun
     - food
@@ -1827,6 +1896,9 @@ Swahili: -tamu
 English: delicious, sweet
 Tags:
     - adjective
+---
+Swahili: utamu
+English: sweetness
 ---
 Swahili: ladha
 English: taste
