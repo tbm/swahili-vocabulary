@@ -587,6 +587,12 @@ Tags:
     - noun
     - food
 ---
+Swahili: mmea
+English: plant
+---
+Swahili: limau
+English: lemon
+---
 Swahili: parachichi
 English: avocado
 Tags:
@@ -679,6 +685,12 @@ Tags:
     - noun
     - food
 ---
+Swahili: siagi
+English: butter
+Tags:
+    - noun
+    - food
+---
 Swahili: sukari
 English: sugar
 Tags:
@@ -737,6 +749,9 @@ English: spoon (African-style large, wooden spoon)
 Swahili: sahani
 English: plate (for food)
 ---
+Swahili: kikombe
+English: cup
+---
 Swahili: chupa
 English: bottle
 ---
@@ -784,6 +799,18 @@ Tags:
 ---
 Swahili: fedha
 English: money, silver
+Tags:
+    - noun
+    - money
+---
+Swahili: dola
+English: dollar
+Tags:
+    - noun
+    - money
+---
+Swahili: shilingi
+English: shilling
 Tags:
     - noun
     - money
@@ -874,6 +901,18 @@ English: room
 Tags:
     - noun
     - place
+---
+Swahili: jengo
+English: building
+---
+Swahili: kanisa
+English: church
+Tags:
+    - noun
+    - place
+---
+Swahili: chuo
+English: university, college; also slang for school
 ---
 Swahili: hoteli
 English: hotel
@@ -1002,6 +1041,15 @@ English: chair, seat
 Swahili: kitanda
 English: bed
 ---
+Swahili: malazi
+English: bed sheet
+---
+Swahili: blanketi
+English: blanket
+---
+Swahili: godoro
+English: mattress
+---
 Swahili: fanicha
 English: furniture
 ---
@@ -1062,8 +1110,23 @@ Tags:
 Swahili: titi
 English: breast (female)
 ---
+Swahili: kidole
+English: finger
+---
+Swahili: mguu
+English: leg
+---
 Swahili: kichwa
 English: head
+---
+Swahili: uso
+English: face
+---
+Swahili: mdomo
+English: lip, beak
+---
+Swahili: ulimi
+English: tongue
 ---
 Swahili: mkono
 English: hand, arm
@@ -1392,6 +1455,9 @@ English: friend
 Tags:
     - noun
 ---
+Swahili: urafiki
+English: friendship
+---
 Swahili: mgeni
 English: guest, stranger, foreigner
 Tags:
@@ -1458,7 +1524,7 @@ Tags:
     - family
 ---
 Swahili: ndugu
-English: sibling, relative
+English: sibling, relative, close friend
 Tags:
     - family
 ---
@@ -1472,6 +1538,16 @@ English: boy
 ---
 Swahili: msichana
 English: girl
+---
+Swahili: shangazi
+English: aunt
+Tags:
+    - family
+---
+Swahili: amu
+English: uncle
+Tags:
+    - family
 ---
 Swahili: mwanamume
 English: man (male)
@@ -1493,8 +1569,18 @@ English: wife
 Tags:
     - family
 ---
+Swahili: bin
+English: son (Tanzania)
+Tags:
+    - family
+---
 Swahili: binti
 English: daughter, pretty girl (Tanzania)
+Tags:
+    - family
+---
+Swahili: mkwe
+English: in-law
 Tags:
     - family
 ---
@@ -1502,6 +1588,9 @@ Swahili: talaka
 English: divorce
 Tags:
     - family
+---
+Swahili: mjane
+English: widow (female)
 ---
 Swahili: ndoa
 English: marriage
@@ -1868,6 +1957,52 @@ English: help
 Swahili: dharura
 English: emergency
 ---
+Swahili: ugonjwa
+English: disease; ailment
+---
+Swahili: homa
+English: fever
+---
+Swahili: kaswende
+English: syphilis
+Tags:
+    - sex
+---
+Swahili: kidonda
+English: wound
+---
+Swahili: kikohozi
+English: cough
+---
+Swahili: -tapika
+English: to vomit
+---
+Swahili: mafua
+English: a cold, or any disease that can be felt in the chest
+---
+Swahili: malaria
+English: malaria
+---
+Swahili: funga choo
+English: constipation
+---
+Swahili: maradhi
+English: sickness
+---
+Swahili: najisi
+English: rape
+---
+Swahili: tezi
+English: tumor
+---
+Swahili: maumivu
+English: pain, ache
+---
+Swahili: UKIMWI
+English: AIDS
+Tags:
+    - sex
+---
 Swahili: sana
 English: very, extremely, a lot, much
 Tags:
@@ -1976,7 +2111,7 @@ Swahili: mtandao
 English: network, Internet
 ---
 Swahili: wifi
-English: wifi
+English: wifi (Internet); sister-in-law
 ---
 Swahili: runinga
 Alternative: televisheni
@@ -2080,6 +2215,7 @@ Tags:
     - travel
 ---
 Swahili: gari
+Alternative: motokaa
 English: car
 Tags:
     - travel
@@ -2155,3 +2291,261 @@ English: ticket
 Tags:
     - travel
     - Bubble-Bath
+---
+Swahili: kiatu
+English: shoe, sandal
+---
+Swahili: kitu
+English: thing
+---
+Swahili: mbu
+English: mosquito
+---
+Swahili: karamu
+English: party, celebration, feast
+---
+Swahili: tumbo
+English: stomach
+---
+Swahili: mwili
+English: body
+---
+Swahili: mfano
+English: example
+---
+Swahili: mlima
+English: mountain, hill
+---
+Swahili: msitu
+English: forest
+---
+Swahili: mswaki
+English: toothbrush
+---
+Swahili: mwavuli
+English: umbrella
+---
+Swahili: mizani
+English: scale (device for weighing goods)
+---
+Swahili: gazeti
+English: newspaper
+---
+Swahili: duka
+English: shop
+---
+Swahili: kosa
+English: mistake
+---
+Swahili: -kosa
+English: to do wrong
+---
+Swahili: jambo
+English: issue, matter, affair, thing
+---
+Swahili: wazo
+English: thought, idea
+---
+Swahili: jukumu
+English: responsibility, guarantee
+---
+Swahili: mafuta
+English: oil
+---
+Swahili: mali
+English: wealth, property
+---
+Swahili: maafa
+English: disaster, catastrophe
+---
+Swahili: matata
+English: problems, trouble
+---
+Swahili: maskani
+English: residence
+---
+Swahili: mazungumzo
+English: conversation, talks, dialogue
+---
+Swahili: maarifa
+English: knowledge
+---
+Swahili: mamlaka
+English: power, authority
+---
+Swahili: upenzi
+English: love, affection
+---
+Swahili: giza
+English: darkness
+---
+Swahili: joto
+English: heath, warmth
+---
+Swahili: jasho
+English: sweat (body fluid); hard work
+---
+Swahili: lepe
+English: drowsiness
+---
+Swahili: nguo
+English: (singular) cloth; (plural) clothes, clothing
+---
+Swahili: kofia
+English: hat
+---
+Swahili: damu
+English: blood; menstruation
+---
+Swahili: mvua
+English: rain
+---
+Swahili: nuru
+English: light (noun)
+---
+Swahili: hewa
+English: air; atmosphere
+---
+Swahili: ajali
+English: accident; fate, destiny
+---
+Swahili: bahati
+English: luck; randomness
+---
+Swahili: hasara
+English: loss
+---
+Swahili: hatari
+English: danger
+---
+Swahili: thamani
+English: value
+---
+Swahili: sifa
+English: praise; reputation
+---
+Swahili: shughuli
+English: occupation
+---
+Swahili: harufu
+English: smell, odour
+---
+Swahili: udevu
+English: beard hair
+---
+Swahili: unywele
+English: hair (singular)
+---
+Swahili: upande
+English: side
+---
+Swahili: upepo
+English: wind
+---
+Swahili: wakati
+English: time; timing; (grammar) tense
+---
+Swahili: wimbo
+English: song
+---
+Swahili: umeme
+English: electricity; lightning
+---
+Swahili: umri
+English: age
+---
+Swahili: unga
+English: flour
+---
+Swahili: usingizi
+English: sleep
+---
+Swahili: uyoga
+English: mushroom
+---
+Swahili: ushuru
+English: tax
+---
+Swahili: -iba
+English: to steal
+---
+Swahili: -sahau
+English: to forget
+---
+Swahili: uhodari
+English: effectiveness, bravery, courage
+---
+Swahili: ubaya
+English: badness, evil
+---
+Swahili: umoja
+English: unity, harmony, union; (grammar) singular
+---
+Swahili: ubora
+English: excellence, superiority, quality
+---
+Swahili: ufundi
+English: expertise
+---
+Swahili: wema
+English: goodness; kindness
+---
+Swahili: pekee
+English: only
+---
+Swahili: dereva
+English: driver
+---
+Swahili: jambazi
+English: robber
+---
+Swahili: dobi
+English: wash man; laundry
+---
+Swahili: wakili
+English: lawyer
+---
+Swahili: shahidi
+English: witness
+---
+Swahili: mfanyabiashara
+English: business person
+---
+Swahili: mfanyakazi
+English: worker
+---
+Swahili: mhandisi
+English: engineer
+---
+Swahili: topasi
+English: cleaner, janitor
+---
+Swahili: mhasibu
+English: accountant
+---
+Swahili: tajiri
+English: employer; rich person
+---
+Swahili: mwongo
+English: liar
+---
+Swahili: -jinga
+English: stupid
+---
+Swahili: mjinga
+English: idiot, fool
+---
+Swahili: ujinga
+English: ignorance; foolishness, stupidity
+---
+Swahili: -pima
+English: to test, to examine; to measure, to weight, to estimate; to criticize
+---
+Swahili: -kinga
+English: to protect; to prevent, to thwart
+---
+Swahili: pole
+English: sorry; slow
+---
+Swahili: baridi
+English: the cold; winter
