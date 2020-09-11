@@ -248,6 +248,9 @@ English: but
 Swahili: bali
 English: however, on the contrary; but instead
 ---
+Swahili: siyo
+English: no, not
+---
 Swahili: shati
 English: shirt
 ---
@@ -492,6 +495,10 @@ Tags:
 ---
 Swahili: kiamsha kinywa
 English: breakfast
+---
+Swahili: kijio
+Alternative: chajio
+English: dinner
 ---
 Swahili: kinywaji
 English: drink (noun), beverage
@@ -916,6 +923,9 @@ English: great; main; chief
 ---
 Swahili: chuo kikuu
 English: university
+---
+Swahili: digrii
+English: degree (academic award)
 ---
 Swahili: hoteli
 English: hotel
@@ -1952,6 +1962,14 @@ English: doctor
 Tags:
     - medical
 ---
+Swahili: cheti
+English: certificate; short note
+---
+Swahili: cheti cha daktari
+English: doctor's prescription
+Tags:
+    - medical
+---
 Swahili: hospitali
 English: hospital
 Tags:
@@ -1994,6 +2012,9 @@ English: constipation
 ---
 Swahili: maradhi
 English: sickness
+---
+Swahili: wito
+English: an infection or contagion; a calling (vocation)
 ---
 Swahili: najisi
 English: rape
@@ -2555,3 +2576,18 @@ English: sorry; slow
 ---
 Swahili: baridi
 English: the cold; winter
+---
+Swahili: domo
+English: brag, boasting (noun)
+---
+Swahili: mkataba
+English: contract, legal agreement
+---
+Swahili: mpango
+English: plan (set of intended actions)
+---
+Swahili: maelewano
+English: a mutual understanding, compromise
+---
+Swahili: nafasi
+English: chance, opportunity; space (extent of time or space)
