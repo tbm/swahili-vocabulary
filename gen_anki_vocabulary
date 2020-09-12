@@ -46,7 +46,7 @@ def main():
                 tags=word.get("Tags"))
             deck.add_note(note)
     swahili.write_to_file(output)
-    print(f"Created deck with {len(deck.notes)} flashcards")
+    print(f"Created deck with {len(deck.notes)} notes")
 
 
 if __name__ == "__main__":
