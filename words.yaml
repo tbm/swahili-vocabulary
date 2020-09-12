@@ -251,6 +251,16 @@ English: however, on the contrary; but instead
 Swahili: siyo
 English: no, not
 ---
+Swahili: katikati
+Alternative: kati
+English: the middle; in the middle; among; between
+---
+Swahili: kati ya
+English: among; between
+---
+Swahili: katika
+English: in; on, upon; out of; off; among; in the middle of (doing an action)
+---
 Swahili: shati
 English: shirt
 ---
@@ -555,6 +565,12 @@ Tags:
     - noun
     - food
 ---
+Swahili: chipsi
+English: chips, French fries
+Tags:
+    - noun
+    - food
+---
 Swahili: nyama
 English: meat
 Tags:
@@ -684,6 +700,7 @@ Tags:
     - food
 ---
 Swahili: chumvi
+Alternative: munyu
 English: salt
 Tags:
     - noun
@@ -1420,6 +1437,12 @@ Swahili: jana
 English: yesterday, last
 Tags:
     - noun
+    - time
+    - Bubble-Bath
+---
+Swahili: juzi
+English: day before yesterday; a few days ago
+Tags:
     - time
     - Bubble-Bath
 ---
@@ -2591,3 +2614,78 @@ English: a mutual understanding, compromise
 ---
 Swahili: nafasi
 English: chance, opportunity; space (extent of time or space)
+---
+Swahili: mojawapo
+English: one of the... (e.g. one of the factors)
+---
+Swahili: sawa
+English: okay
+---
+Swahili: sawa na (e.g. sawa na kubwa)
+English: as ... as (equal to) (e.g. as big as)
+---
+Swahili: fora
+English: a win, success
+---
+Swahili: leseni
+English: license
+---
+Swahili: bustani
+English: garden
+---
+Swahili: chenji
+English: change (money)
+---
+Swahili: mungu
+English: god
+---
+Swahili: ee
+English: oh
+---
+Swahili: ee mungu
+English: oh god!
+---
+Swahili: foleni
+English: queue
+---
+Swahili: tetesi
+English: rumor, item of gossip; speculation
+---
+Swahili: karimu
+English: generous
+---
+Swahili: mkarimu
+English: generous person
+---
+Swahili: ukarimu
+English: generosity
+---
+Swahili: choyo
+English: miserliness
+---
+Swahili: mchoyo
+English: a miser (a stingy person)
+---
+Swahili: -jeuri
+English: rude
+---
+Swahili: jeuri
+English: rudeness
+---
+Swahili: kengele
+English: bell; ringing (sound)
+---
+Swahili: kero
+English: annoyance, nuisance
+---
+Swahili: kusudi
+English: purpose, intention
+---
+Swahili: kwa kusudi
+English: intentionally, on purpose
+---
+Swahili: kuukuu
+English: old (only for things, not people)
+---
+Swahili: uchungu
+English: bitterness, pain, sadness
