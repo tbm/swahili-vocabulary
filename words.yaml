@@ -282,6 +282,15 @@ English: nutritious
 Swahili: jina
 English: name; (grammar) noun
 ---
+Swahili: jina la kwanza
+English: first name
+---
+Swahili: jina la ubatizo
+English: Christian name
+---
+Swahili: jina la ukoo
+English: surname, maiden name
+---
 Swahili: filamu
 English: film, video
 ---
@@ -510,6 +519,12 @@ Swahili: kijio
 Alternative: chajio
 English: dinner
 ---
+Swahili: chakula muhimu
+English: main course
+---
+Swahili: kianzio
+English: appetizer
+---
 Swahili: kinywaji
 English: drink (noun), beverage
 Tags:
@@ -706,6 +721,12 @@ Tags:
     - noun
     - food
 ---
+Swahili: siki
+English: vinegar
+Tags:
+    - noun
+    - food
+---
 Swahili: siagi
 English: butter
 Tags:
@@ -775,6 +796,9 @@ English: cup
 ---
 Swahili: chupa
 English: bottle
+---
+Swahili: bakuli
+English: bowl
 ---
 Swahili: glasi
 Alternative: bilauri
@@ -1160,6 +1184,9 @@ English: mouth (the whole, not just the opening)
 ---
 Swahili: ulimi
 English: tongue
+---
+Swahili: moyo
+English: heart
 ---
 Swahili: mkono
 English: hand, arm
@@ -1642,6 +1669,12 @@ English: wedding
 Tags:
     - family
 ---
+Swahili: rafiki wa kike
+English: girlfriend
+---
+Swahili: rafiki wa kiume
+English: boyfriend
+---
 Swahili: jua
 English: sun
 Tags:
@@ -2061,6 +2094,9 @@ English: constipation
 Swahili: maradhi
 English: sickness
 ---
+Swahili: afya
+English: health
+---
 Swahili: wito
 English: an infection or contagion; a calling (vocation)
 ---
@@ -2387,6 +2423,9 @@ English: body
 ---
 Swahili: mfano
 English: example
+---
+Swahili: kwa mfano
+English: for example
 ---
 Swahili: mlima
 English: mountain, hill
@@ -3018,3 +3057,254 @@ Tags:
 ---
 Swahili: -lewa
 English: be drunk
+---
+Swahili: -agiza
+English: to order
+---
+Swahili: agizo
+English: order, instruction
+---
+Swahili: -ahidi
+English: to promise
+---
+Swahili: aibu
+English: shame
+---
+Swahili: -alika
+English: to invite
+---
+Swahili: mwaliko
+English: invitation
+---
+Swahili: amani
+English: peace
+---
+Swahili: -aminifu
+English: honest, trustworthy
+---
+Swahili: -amini
+English: to believe, to trust
+---
+Swahili: amini
+English: belief, devotion
+---
+Swahili: -amua
+English: to decide, to judge
+---
+Swahili: anwani
+English: address
+---
+Swahili: bandia
+English: fake, artificial, counterfeit
+---
+Swahili: bendi
+English: band (music band)
+---
+Swahili: badala ya
+English: instead of
+---
+Swahili: -badala
+English: alternative
+---
+Swahili: badala
+English: substitute, replacement
+---
+Swahili: asilimia
+English: percent
+---
+Swahili: bila
+English: without
+---
+Swahili: bila kukawia
+English: immediately
+---
+Swahili: bila shaka
+English: certainly, definitely
+---
+Swahili: bafu
+English: bathroom
+---
+Swahili: binafsi
+English: personally; personal
+---
+Swahili: bonde
+English: valley
+---
+Swahili: bora
+English: better, best
+---
+Swahili: bora kabisa
+English: best; excellent
+---
+Swahili: bora zaidi
+English: better; a better one
+---
+Swahili: zaidi
+English: more; increase
+---
+Swahili: chupi
+English: underwear
+---
+Swahili: dazeni
+Alternative: darzeni
+English: dozen
+---
+Swahili: dini
+English: religion
+---
+Swahili: deni
+English: debit
+---
+Swahili: dunia
+English: world
+---
+Swahili: faida
+English: profit, benefit
+---
+Swahili: faragha
+English: privacy; privately
+---
+Swahili: -gharimu
+English: to cost (to incur a charge, a price)
+---
+Swahili: -haribu
+English: to destroy, to damage, to ruin
+---
+Swahili: -hesabu
+English: to calculate, to count
+---
+Swahili: hesabu
+English: bill, account, sum
+---
+Swahili: ilani
+English: notice
+---
+Swahili: jinsia
+English: sex, gender
+---
+Swahili: kamwe
+English: never
+---
+Swahili: kichekesho
+English: joke, humour
+---
+Swahili: kiazi
+English: potato
+---
+Swahili: kila
+English: every; per
+---
+Swahili: kila kitu
+English: everything
+---
+Swahili: kila mahali
+English: everywhere
+---
+Swahili: kila moja
+English: each
+---
+Swahili: kila mara
+English: every time
+---
+Swahili: kila mtu
+English: everyone
+---
+Swahili: kila siku
+English: every day, daily
+---
+Swahili: kila usiku
+English: every night, per night
+---
+Swahili: kipenzi
+English: a favourite
+---
+Swahili: koo
+English: throat
+---
+Swahili: kumradhi
+Alternative: kunradhi
+English: excuse me, sorry
+---
+Swahili: kweli
+English: true, real
+---
+Swahili: maisha
+English: life
+---
+Swahili: mandhari
+English: view, scenery
+---
+Swahili: mbali
+English: far, distant
+---
+Swahili: kiongozi
+English: leader
+---
+Swahili: mwongozi
+English: guide (person)
+---
+Swahili: raha
+English: comfort, joy
+---
+Swahili: ripoti
+English: report
+---
+Swahili: risiti
+English: receipt
+---
+Swahili: sanduku
+English: box
+---
+Swahili: sanduku la posta
+English: postbox
+---
+Swahili: sheria
+English: law
+---
+Swahili: shimo
+English: hole
+---
+Swahili: tarehe
+English: date (point of time at which an event takes place)
+---
+Swahili: timu
+English: team
+---
+Swahili: toza
+English: charge, fine
+---
+Swahili: -tumaini
+English: to hope, to believe, to expect
+---
+Swahili: tumaini
+English: belief, expectation, hope
+---
+Swahili: ng'ambo
+English: abroad
+---
+Swahili: ruhusa
+English: permission
+---
+Swahili: -a kike
+English: feminine, female
+---
+Swahili: kiume, -a kiume
+English: manly
+---
+Swahili: kiume
+English: masculinity
+---
+Swahili: rai
+English: opinion, view
+---
+Swahili: rangi
+English: colour; paint
+---
+Swahili: serikali
+English: government
+---
+Swahili: tafadhali
+English: please
+---
+Swahili: afadhali
+English: better, preferable
