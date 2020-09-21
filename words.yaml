@@ -294,6 +294,9 @@ English: surname, maiden name
 Swahili: filamu
 English: film, video
 ---
+Swahili: video
+English: video
+---
 Swahili: mlinzi
 English: guard; defender
 ---
@@ -757,6 +760,18 @@ Tags:
     - noun
     - food
 ---
+Swahili: kabichi
+English: cabbage
+Tags:
+    - noun
+    - food
+---
+Swahili: kitunguu
+English: onion
+Tags:
+    - noun
+    - food
+---
 Swahili: nyanya
 English: tomato; grandmother (Kenya)
 Tags:
@@ -766,6 +781,12 @@ Tags:
 ---
 Swahili: ndizi
 English: banana
+Tags:
+    - noun
+    - food
+---
+Swahili: embe
+English: mango
 Tags:
     - noun
     - food
@@ -880,6 +901,12 @@ Tags:
 ---
 Swahili: benki
 English: bank (financial institution)
+Tags:
+    - noun
+    - money
+---
+Swahili: riba
+English: interest (finance); usury; greed
 Tags:
     - noun
     - money
@@ -2398,6 +2425,12 @@ Tags:
     - noun
     - sex
 ---
+Swahili: kondomu
+English: condom
+Tags:
+    - noun
+    - sex
+---
 Swahili: teksi
 English: taxi
 Tags:
@@ -3271,7 +3304,10 @@ Alternative: kunradhi
 English: excuse me, sorry
 ---
 Swahili: kweli
-English: true, real
+English: true, real; really, truly; truth, truthfulness
+---
+Swahili: ukweli
+English: truth, truthfulness
 ---
 Swahili: maisha
 English: life
@@ -3483,3 +3519,47 @@ English: wait a minute
 ---
 Swahili: daima
 English: always
+---
+Swahili: kodi
+English: rent, fee, lease, tax, commission
+---
+Swahili: -ridhi
+English: to approve, consent, satisfy, please
+---
+Swahili: ridhaa
+English: consent
+---
+Swahili: idhaa
+English: channel (e.g. TV or radio channel)
+---
+Swahili: -pata
+English: to get, to get the chance or opportunity to, be able to (followed by an infinitive or bare verb stem)
+---
+Swahili: staa
+English: celebrity
+---
+Swahili: staajabu
+English: astonished, surprised
+---
+Swahili: -ongea
+English: to speak, to talk, to chat
+---
+Swahili: stadi
+English: expert
+---
+Swahili: -staafu
+English: to retire
+---
+Swahili: vitamini
+English: vitamin
+---
+Swahili: hii
+English: this
+---
+Swahili: hadi
+English: until
+---
+Swahili: mboga kabisa
+English: very simple; piece of cake
+Tags:
+    - idiomatic
