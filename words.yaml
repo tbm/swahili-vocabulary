@@ -589,8 +589,26 @@ Tags:
     - noun
     - food
 ---
+Swahili: jibini
+English: cheese
+Tags:
+    - noun
+    - food
+---
+Swahili: supu
+English: soup
+Tags:
+    - noun
+    - food
+---
 Swahili: nyama
 English: meat
+Tags:
+    - noun
+    - food
+---
+Swahili: mchuzi
+English: sauce, gravy
 Tags:
     - noun
     - food
@@ -603,6 +621,13 @@ Tags:
 ---
 Swahili: nyama ya nguruwe
 English: pork
+Tags:
+    - noun
+    - food
+---
+Swahili: mnofu
+Alternative: steki
+English: steak
 Tags:
     - noun
     - food
@@ -1213,7 +1238,7 @@ Tags:
     - place
 ---
 Swahili: chombo
-English: sailing vessel; vessel (container for liquids); a dish more generally (like plates or pots)
+English: ship (sailing vessel;) vase; vessel (container for liquids); a dish more generally (like plates or pots)
 ---
 Swahili: ziwa
 English: lake, breast
@@ -1259,6 +1284,12 @@ English: left hand
 ---
 Swahili: mgongo
 English: back (the rear of the body)
+---
+Swahili: ini
+English: liver
+---
+Swahili: ubongo
+English: brain
 ---
 Swahili: mpaka (preposition)
 English: until (up to the time of (something happening))
@@ -2640,6 +2671,9 @@ English: smell, odour
 Swahili: udevu
 English: beard hair
 ---
+Swahili: ndevu
+English: beard
+---
 Swahili: unywele
 English: hair (singular)
 ---
@@ -3405,6 +3439,9 @@ English: government
 Swahili: tafadhali
 English: please
 ---
+Swahili: naomba
+English: please (Tanzania)
+---
 Swahili: afadhali
 English: better, preferable
 ---
@@ -3420,6 +3457,9 @@ English: mile
 Swahili: kilometa
 Alternative: kilomita
 English: kilometer
+---
+Swahili: kilo
+English: kilogram
 ---
 Swahili: mshangao
 English: surprise, wonder, bewilderment
@@ -3575,3 +3615,37 @@ Swahili: mboga kabisa
 English: very simple; piece of cake
 Tags:
     - idiomatic
+---
+Swahili: mchuuzi
+English: hawker, pedlar
+---
+Swahili: baadaye
+Alternative: baadae
+English: later; afterwards
+---
+Swahili: injini
+English: engine
+---
+Swahili: mfalme
+English: king
+---
+Swahili: malkia
+English: queen
+---
+Swahili: mkahawa
+English: restaurant, café
+---
+Swahili: baa
+English: bar, pub
+---
+Swahili: kiwanda
+English: factory
+---
+Swahili: mkakati
+English: strategy
+---
+Swahili: heshima
+English: respect, honour, dignity
+---
+Swahili: kontena
+English: container
