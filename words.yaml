@@ -139,6 +139,18 @@ Tags:
     - noun
     - number
 ---
+Swahili: bilioni
+English: billion
+Tags:
+    - noun
+    - number
+---
+Swahili: trilioni
+English: trillion
+Tags:
+    - noun
+    - number
+---
 Swahili: mosi
 English: one (used as an abstract value as in "the number one")
 Tags:
@@ -276,6 +288,22 @@ English: in; on, upon; out of; off; among; in the middle of (doing an action)
 Swahili: shati
 English: shirt
 ---
+Swahili: rinda
+English: dress
+---
+Swahili: sketi
+English: skirt
+---
+Swahili: suruali
+English: trousers, pants
+---
+Swahili: suruali ndefu
+English: long trousers, long pants
+---
+Swahili: kaptula
+Alternative: kaptura
+English: shorts (clothing)
+---
 Swahili: zawadi
 English: gift, present
 ---
@@ -308,6 +336,9 @@ English: film, video
 ---
 Swahili: video
 English: video
+---
+Swahili: sinema
+English: cinema
 ---
 Swahili: mlinzi
 English: guard; defender
@@ -1718,6 +1749,12 @@ English: uncle
 Tags:
     - family
 ---
+Swahili: uume
+English: manhood, masculinity; (euphemistic) penis
+---
+Swahili: uke
+English: womanhood; (euphemistic) vulva, vagina
+---
 Swahili: mwanamume
 English: man (male)
 Tags:
@@ -2144,6 +2181,12 @@ English: Spanish
 Swahili: Uganda
 English: Uganda
 ---
+Swahili: Marekani
+English: America
+---
+Swahili: Mwamerika
+English: American
+---
 Swahili: kutoka
 English: from
 ---
@@ -2446,6 +2489,12 @@ English: boat
 ---
 Swahili: pikipiki
 English: motorbike
+---
+Swahili: mboo
+Alternative: dhakari
+English: penis
+Tags:
+    - sex
 ---
 Swahili: kuma
 English: vagina, cunt
@@ -3410,6 +3459,9 @@ English: law
 Swahili: shimo
 English: hole
 ---
+Swahili: kisima
+English: well (water hole)
+---
 Swahili: tarehe
 English: date (point of time at which an event takes place)
 ---
@@ -3448,6 +3500,12 @@ English: colour; paint
 ---
 Swahili: serikali
 English: government
+---
+Swahili: siasa
+English: politics
+---
+Swahili: mwanasiasa
+English: politician
 ---
 Swahili: tafadhali
 English: please
@@ -3548,6 +3606,9 @@ English: spice; a junction or joint, esp. a part of the body where bones join
 ---
 Swahili: kanga
 English: a colourful printed cotton garment worn by women in East Africa
+---
+Swahili: kitenge
+English: African garment similar to a sarong
 ---
 Swahili: kelele
 English: noise
@@ -3749,3 +3810,58 @@ English: yellow
 ---
 Swahili: waridi
 English: rose
+---
+Swahili: -tuma
+English: to send
+---
+Swahili: -toa
+English: to give (out), put out; to produce; to publish
+---
+Swahili: tumbaku
+Alternative: tumbako
+English: tobacco
+---
+Swahili: sigara
+English: cigarette
+---
+Swahili: viza
+English: visa (immigration document)
+Tags:
+    - noun
+    - travel
+---
+Swahili: -vivu
+English: idle; slow; lazy
+---
+Swahili: -vaa
+English: to wear, to get dressed
+---
+Swahili: notisi
+English: notice
+---
+Swahili: -tangaza
+English: to announce, advertise, proclaim
+---
+Swahili: tangazo
+English: notice, announcement, advertisement
+---
+Swahili: maktaba
+English: library
+---
+Swahili: ndimu
+English: lime
+---
+Swahili: shauku
+English: passion
+---
+Swahili: -nene
+English: fat
+---
+Swahili: -refu
+English: long, tall; high, deep
+---
+Swahili: -fupi
+English: short
+---
+Swahili: -kana
+English: to deny, to reject, to say no
