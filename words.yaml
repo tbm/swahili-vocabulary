@@ -217,6 +217,11 @@ English: welcome; come in; you're welcome; nearby
 Tags:
     - greeting
 ---
+Swahili: kwa heri
+English: goodbye
+Tags:
+    - greeting
+---
 Swahili: ndiyo
 Alternative: ndio
 English: "yes"
@@ -2230,7 +2235,7 @@ Swahili: Uganda
 English: Uganda
 ---
 Swahili: Marekani
-English: America
+English: United States of America
 ---
 Swahili: Mwamerika
 English: American
@@ -2242,6 +2247,9 @@ Swahili: daktari
 English: doctor
 Tags:
     - medical
+---
+Swahili: mganga
+English: doctor using African medicine
 ---
 Swahili: cheti
 English: certificate; short note
@@ -2647,6 +2655,9 @@ English: thing
 ---
 Swahili: mbu
 English: mosquito
+---
+Swahili: chandarua
+English: mosquito net
 ---
 Swahili: karamu
 English: party, celebration, feast
@@ -3913,3 +3924,87 @@ English: short
 ---
 Swahili: -kana
 English: to deny, to reject, to say no
+---
+Swahili: kita
+English: war; battle
+---
+Swahili: -kita
+English: to stand one's ground
+---
+Swahili: -endelea
+English: to progress; to develop
+---
+Swahili: -fahamu
+English: to know, to understand
+---
+Swahili: fahamu
+English: knowledge, understanding, comprehension; consciousness
+---
+Swahili: salama
+English: safe, secure; safely, securely
+---
+Swahili: gani
+English: what, (of) which
+---
+Swahili: -ema
+English: good; having intrinsic value (e.g. decent (of a person) or healthy (of food))
+---
+Swahili: bila samahani
+English: no excuse needed
+---
+Swahili: hodi
+English: "may I come in? also: may I go through? (in a crowd)"
+---
+Swahili: je
+English: well? now? how about? (used to call attention to a question)
+---
+Swahili: -onana
+English: to see each other, to meet
+---
+Swahili: mpishi
+English: cook, chef
+---
+Swahili: -poa
+English: to recover, to get better; to become calm
+---
+Swahili: poa
+English: cool, okay; I'm fine (to "how are you?")
+---
+Swahili: -ruka
+English: to jump, to fly; to transgress; to denounce; to shrink clothes
+---
+Swahili: -ishi
+English: to live; to exist
+---
+Swahili: -panda
+English: to climb, ascend, rise; to plant
+---
+Swahili: balozi
+English: ambassador
+---
+Swahili: -fariki
+English: to die; to divorce
+---
+Swahili: -fika
+English: to arrive
+---
+Swahili: kemikali
+English: chemicals
+---
+Swahili: kiwanja
+English: stadium; plot of land; grounds
+---
+Swahili: -lima
+English: to cultivate, to farm; to plough
+---
+Swahili: -maliza
+English: to finish, to end, to conclude; to consume
+---
+Swahili: mtihani
+English: examination, test
+---
+Swahili: mhariri
+English: editor
+---
+Swahili: -sikitika
+English: to be disappointed; to be sorry; to grieve; to regret
