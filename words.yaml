@@ -397,6 +397,15 @@ English: history
 Swahili: jiografia
 English: geography
 ---
+Swahili: fundi
+English: craftsman; artisan
+---
+Swahili: -funza
+English: "(not common) educate, teach; (reflexive: -ji) learn"
+---
+Swahili: funzo
+English: lesson
+---
 Swahili: mwana
 English: child; (in compounds) someone who does or has a relation to something
 ---
@@ -770,6 +779,12 @@ Tags:
     - noun
     - food
 ---
+Swahili: -majimaji
+English: watery or liquid-like
+---
+Swahili: majimaji
+English: liquid
+---
 Swahili: maji ya nazi
 English: coconut water
 Tags:
@@ -1119,6 +1134,12 @@ Tags:
     - noun
     - place
 ---
+Swahili: fleti
+English: apartment
+Tags:
+    - noun
+    - place
+---
 Swahili: chumba
 English: room
 Tags:
@@ -1377,6 +1398,12 @@ English: mouth (the whole, not just the opening)
 ---
 Swahili: ulimi
 English: tongue
+---
+Swahili: chuchu
+English: nipple; teat
+---
+Swahili: ukucha
+English: finger nail; claw
 ---
 Swahili: moyo
 English: heart
@@ -2572,6 +2599,11 @@ English: motorbike taxi
 Tags:
     - travel
 ---
+Swahili: bajaji
+English: tuktuk (motorised rickshaw)
+Tags:
+    - travel
+---
 Swahili: gari
 Alternative: motokaa
 English: car
@@ -2743,6 +2775,9 @@ English: to do wrong; to lack, be deficient (in), to miss out (on)
 Swahili: jambo
 English: issue, matter, affair, thing
 ---
+Swahili: -waza
+English: to think, to reflect; to imagine
+---
 Swahili: wazo
 English: thought, idea
 ---
@@ -2835,6 +2870,9 @@ English: beard
 ---
 Swahili: unywele
 English: hair (singular)
+---
+Swahili: mvi
+English: gray hair
 ---
 Swahili: upande
 English: side
@@ -2992,6 +3030,9 @@ English: oh
 Swahili: ee mungu
 English: oh god!
 ---
+Swahili: mungu baba
+English: oh my god!
+---
 Swahili: foleni
 English: queue
 ---
@@ -3127,6 +3168,9 @@ English: doer, executor, organizer (one who does something or carries out a task
 Swahili: mfanyaji
 English: worker
 ---
+Swahili: biashara
+English: business, trade, commerce
+---
 Swahili: kazi
 English: work, business; job, occupation
 ---
@@ -3155,7 +3199,7 @@ Swahili: kikao
 English: meeting, session
 ---
 Swahili: -kata
-English: to cut, to bring to an end
+English: to cut; to bring to an end; to buy (a ticket)
 Tags:
     - verb
 ---
@@ -3470,7 +3514,7 @@ Swahili: hesabu
 English: bill, account, sum
 ---
 Swahili: ilani
-English: notice
+English: notice, warning; manifesto
 ---
 Swahili: jinsia
 English: sex, gender
@@ -4379,3 +4423,141 @@ English: park, grassland
 ---
 Swahili: mbuga ya wanyama
 English: game reserve
+---
+Swahili: njia
+English: path, road, way
+---
+Swahili: kinjia
+English: small path, narrow street
+---
+Swahili: njia kuu
+English: main road, highway
+---
+Swahili: njia panda
+English: crossroad
+---
+Swahili: njia ya kukata
+English: shortcut
+---
+Swahili: njia ya reli
+English: railway line
+---
+Swahili: rahisi
+English: easy; cheap, inexpensive; simple
+---
+Swahili: -gumu
+English: difficult, hard, tough
+---
+Swahili: -ororo
+English: soft, mild
+---
+Swahili: -rembo
+English: beautiful, pretty
+---
+Swahili: bei
+English: price
+---
+Swahili: ndoo
+English: bucket
+---
+Swahili: -epesi
+English: light (opposite of heavy)
+---
+Swahili: -zito
+English: heavy
+---
+Swahili: -sukuma
+English: to push
+---
+Swahili: kabati
+English: cupboard
+---
+Swahili: -zoea
+English: to get used to
+---
+Swahili: zoezi
+English: training, practice
+---
+Swahili: -nyonya
+English: to suck; to breastfeed
+---
+Swahili: -jaza
+English: to fill
+---
+Swahili: -foka
+English: to erupt, overflow, gush; to rap (music)
+---
+Swahili: agano
+English: agreement, pact
+---
+Swahili: -amba
+English: to say, to explain
+---
+Swahili: amba-
+English: which; who
+---
+Swahili: baadhi
+English: part, portion (used to translate "some")
+---
+Swahili: ufa
+English: crack
+---
+Swahili: bure
+English: free (free of charge; gratis); in vain; pointlessly; fruitlessly
+---
+Swahili: kipimo
+English: measurement; any tool used to measure something
+---
+Swahili: ukumbi
+English: stage, theatre
+---
+Swahili: sehemu
+English: part, portion, fraction, act; place, part of the world
+---
+Swahili: mapema
+English: early
+---
+Swahili: nguvu
+English: strength; authority
+---
+Swahili: -a kisasa
+English: modern, current
+---
+Swahili: -nawa
+English: to wash (a part of the body, especially the hands)
+---
+Swahili: -pendelea
+English: to prefer, to favour
+---
+Swahili: tayari
+English: ready, done, prepared
+---
+Swahili: -ko
+English: indefinite / nonspecific locative class suffix, indefinite place indicator
+---
+Swahili: -fanana
+English: resemble, look like; be similar
+---
+Swahili: uga
+English: a courtyard, grounds
+---
+Swahili: ughaibuni
+English: overseas, abroad
+---
+Swahili: stima
+English: electricity
+---
+Swahili: radi
+English: thunder, lightning
+---
+Swahili: janja
+English: cunning, sly; crafty
+---
+Swahili: mjanja
+English: a cunning person, a shrewd person; a crafty person
+---
+Swahili: kando
+English: aside, along; an edge of something
+---
+Swahili: kando ya
+English: beside, next to (adjacent or near to)
