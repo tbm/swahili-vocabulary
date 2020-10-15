@@ -375,6 +375,15 @@ English: toothpaste
 Swahili: mdudu
 English: insect
 ---
+Swahili: buibui
+English: spider
+---
+Swahili: nyoka
+English: snake
+---
+Swahili: nzi
+English: fly
+---
 Swahili: -tulia
 English: to relax
 ---
@@ -736,6 +745,27 @@ Tags:
     - noun
     - food
 ---
+Swahili: ndama
+English: calf
+---
+Swahili: nyama ya ndama
+English: veal
+Tags:
+    - noun
+    - food
+---
+Swahili: nyama ya sungura
+English: rabbit meat
+Tags:
+    - noun
+    - food
+---
+Swahili: mchuzi wa nyama
+English: stew
+Tags:
+    - noun
+    - food
+---
 Swahili: mnofu
 Alternative: steki
 English: steak
@@ -950,6 +980,60 @@ English: tangerine
 Tags:
     - noun
     - food
+---
+Swahili: karoti
+English: carrot
+---
+Swahili: saladi
+English: salad
+---
+Swahili: mchicha
+English: spinach
+---
+Swahili: sambusa
+English: samosa (pastry with meat)
+---
+Swahili: keki
+English: cake
+---
+Swahili: kitumbua
+English: rice fritter
+---
+Swahili: balungi
+English: grapefruit
+---
+Swahili: pera
+English: guava
+---
+Swahili: fenesi
+English: jack fruit
+---
+Swahili: muwa
+English: sugar cane
+---
+Swahili: pilipili hoho
+English: bell pepper
+---
+Swahili: mawese
+English: palm oil
+---
+Swahili: tangawizi
+English: ginger
+---
+Swahili: karafuu
+English: clove
+---
+Swahili: kitunguu saumu
+English: garlic
+---
+Swahili: bamia
+English: okra
+---
+Swahili: kiazi kitamu
+English: sweet potato
+---
+Swahili: kaa
+English: crab
 ---
 Swahili: uma
 English: fork (to eat)
@@ -1429,6 +1513,12 @@ English: liver
 Swahili: ubongo
 English: brain
 ---
+Swahili: pafu
+English: lung
+---
+Swahili: bega
+English: shoulder
+---
 Swahili: mpaka (preposition)
 English: until (up to the time of (something happening))
 ---
@@ -1675,6 +1765,11 @@ Tags:
     - adverb
     - time
 ---
+Swahili: sasa hivi
+English: immediately
+Tags:
+    - time
+---
 Swahili: leo
 English: today
 Tags:
@@ -1701,6 +1796,21 @@ English: day before yesterday; a few days ago
 Tags:
     - time
     - Bubble-Bath
+---
+Swahili: juzijuzi
+English: recently
+Tags:
+    - time
+---
+Swahili: mara nyingi
+English: often
+Tags:
+    - time
+---
+Swahili: siku zote
+English: always
+Tags:
+    - time
 ---
 Swahili: asubuhi
 English: morning
@@ -2335,6 +2445,9 @@ English: wound
 Swahili: kikohozi
 English: cough
 ---
+Swahili: -kohoa
+English: to cough
+---
 Swahili: -tapika
 English: to vomit
 ---
@@ -2352,6 +2465,18 @@ English: sickness
 ---
 Swahili: afya
 English: health
+---
+Swahili: kidonge
+English: pill, capsule
+---
+Swahili: tone
+English: drop
+---
+Swahili: dawa ya kupakaa
+English: cream
+---
+Swahili: plasta
+English: plaster, adhesive dressing
 ---
 Swahili: wito
 English: an infection or contagion; a calling (vocation)
@@ -2747,6 +2872,9 @@ English: for example
 ---
 Swahili: mlima
 English: mountain, hill
+---
+Swahili: kilima
+English: small hill
 ---
 Swahili: msitu
 English: forest
@@ -3601,6 +3729,9 @@ English: postbox
 Swahili: kisanduku
 English: little box (e.g. cash box)
 ---
+Swahili: mkoba
+English: purse
+---
 Swahili: sheria
 English: law
 ---
@@ -3673,12 +3804,27 @@ English: in front, before (previously); the front
 Swahili: maili
 English: mile
 ---
+Swahili: milimeta
+English: millimeter
+---
+Swahili: sentimeta
+English: centimeter
+---
+Swahili: meta
+English: meter
+---
 Swahili: kilometa
 Alternative: kilomita
 English: kilometer
 ---
+Swahili: gramu
+English: gram
+---
 Swahili: kilo
 English: kilogram
+---
+Swahili: lita
+English: liter
 ---
 Swahili: mshangao
 English: surprise, wonder, bewilderment
@@ -4561,3 +4707,84 @@ English: aside, along; an edge of something
 ---
 Swahili: kando ya
 English: beside, next to (adjacent or near to)
+---
+Swahili: -ongeza
+English: to add or increase
+---
+Swahili: ni
+English: is
+---
+Swahili: msikiti
+English: mosque
+---
+Swahili: nje
+English: external; outside
+---
+Swahili: ndani
+English: inside; inside, interior
+---
+Swahili: tangu
+English: since
+---
+Swahili: kituo
+English: station, camp, port; comma; establishment, settlement
+---
+Swahili: kituo cha polisi
+English: police station
+---
+Swahili: kituo cha petroli
+English: petrol station
+---
+Swahili: gereji
+English: garage, repair shop
+---
+Swahili: ujuzi
+English: knowledge; experience
+---
+Swahili: ratiba
+English: timetable
+---
+Swahili: nauli
+English: fare, charge
+---
+Swahili: behewa
+English: train carriage; railroad car
+---
+Swahili: bima
+English: insurance
+---
+Swahili: mbio
+English: speed; quickly, fast
+---
+Swahili: bahasha
+English: envelope
+---
+Swahili: nambari ya ofisi ya posta
+English: postcode, zip code
+---
+Swahili: -ingia
+English: to enter
+---
+Swahili: juha
+English: (derogatory) fool, idiot
+---
+Swahili: wavu
+English: net
+---
+Swahili: -nuka
+English: to smell, to stink
+---
+Swahili: vumbi
+English: powder, dust
+---
+Swahili: baki
+English: remainder, balance, residue; neutrality; neutral, impartial
+---
+Swahili: -baki
+English: to remain, to stay, to be left over
+---
+Swahili: bakshishi
+English: tip, gratuity
+---
+Swahili: kitana
+English: comb
