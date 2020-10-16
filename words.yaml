@@ -217,6 +217,9 @@ English: welcome; come in; you're welcome; nearby
 Tags:
     - greeting
 ---
+Swahili: heri
+English: happiness; better (when beginning a clause, "it is better that...")
+---
 Swahili: kwa heri
 English: goodbye
 Tags:
@@ -1842,6 +1845,11 @@ English: night, nighttime
 Tags:
     - time
 ---
+Swahili: usiku wa leo
+English: tonight
+Tags:
+    - time
+---
 Swahili: kalenda
 English: calendar
 Tags:
@@ -3228,11 +3236,18 @@ Swahili: kwa nini
 Alternative: mbona
 English: why?
 ---
+Swahili: kwani
+Alternative: why?; for, because
+English: why?
+---
 Swahili: nini
 English: what?
 ---
-Swahili: kwa kuwa
+Swahili: kwa sababu; kwa kuwa
 English: because
+---
+Swahili: kwa hiyo, kwa hivyo, kwa vile
+English: so; because of that; in sequence
 ---
 Swahili: -anza
 English: to begin
@@ -4494,6 +4509,9 @@ English: regular, ordinary, normal
 ---
 Swahili: kama kawaida
 English: the usual (e.g. in a shop)
+---
+Swahili: kwa kawaida
+English: usually
 ---
 Swahili: chakula cha mchana
 English: lunch
