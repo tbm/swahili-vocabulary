@@ -987,6 +987,9 @@ Tags:
 Swahili: karoti
 English: carrot
 ---
+Swahili: tango
+English: cucumber
+---
 Swahili: saladi
 English: salad
 ---
@@ -1115,6 +1118,9 @@ English: dollar
 Tags:
     - noun
     - money
+---
+Swahili: paundi
+English: pound (currency or weight)
 ---
 Swahili: shilingi
 English: shilling
@@ -1420,6 +1426,9 @@ English: grass
 Swahili: mti
 English: tree, pole
 ---
+Swahili: jani
+English: leaf
+---
 Swahili: ubao
 English: wood
 ---
@@ -1465,6 +1474,9 @@ Tags:
 Swahili: titi
 English: breast (female)
 ---
+Swahili: ngozi
+English: skin; leather
+---
 Swahili: kidole
 English: finger
 ---
@@ -1509,6 +1521,9 @@ English: back (the rear of the body)
 ---
 Swahili: tako
 English: buttock
+---
+Swahili: mkundu
+English: anus
 ---
 Swahili: ini
 English: liver
@@ -2938,6 +2953,12 @@ English: problems, trouble
 Swahili: maskani
 English: residence
 ---
+Swahili: -zungumza
+English: to converse, to engage in conversation, to talk
+---
+Swahili: gumzo
+English: a conversation
+---
 Swahili: mazungumzo
 English: conversation, talks, dialogue
 ---
@@ -2953,6 +2974,9 @@ English: darkness
 Swahili: joto
 English: heat, warmth
 ---
+Swahili: joto la mwili
+English: body temperature
+---
 Swahili: jasho
 English: sweat (body fluid); hard work
 ---
@@ -2964,6 +2988,12 @@ English: (singular) cloth; (plural) clothes, clothing
 ---
 Swahili: kofia
 English: hat
+---
+Swahili: miwani
+English: eyeglasses, spectacles
+---
+Swahili: miwani ya jua
+English: sunglasses
 ---
 Swahili: damu
 English: blood; menstruation
@@ -3096,6 +3126,12 @@ English: cleaner, janitor
 ---
 Swahili: mhasibu
 English: accountant
+---
+Swahili: mhudumu
+English: waiter
+---
+Swahili: muuguzi
+English: nurse, healer
 ---
 Swahili: tajiri
 English: employer; rich person
@@ -3750,6 +3786,9 @@ English: little box (e.g. cash box)
 Swahili: mkoba
 English: purse
 ---
+Swahili: pochi
+English: purse, pouch, wallet
+---
 Swahili: sheria
 English: law
 ---
@@ -3840,6 +3879,9 @@ English: gram
 ---
 Swahili: kilo
 English: kilogram
+---
+Swahili: ratili
+English: pound (weight)
 ---
 Swahili: lita
 English: liter
@@ -4149,7 +4191,7 @@ Swahili: notisi
 English: notice
 ---
 Swahili: -tangaza
-English: to announce, advertise, proclaim
+English: to announce, to advertise, to proclaim
 ---
 Swahili: tangazo
 English: notice, announcement, advertisement
@@ -4246,6 +4288,9 @@ English: stadium; plot of land; grounds
 ---
 Swahili: -lima
 English: to cultivate, to farm; to plough
+---
+Swahili: mkulima
+English: farmer
 ---
 Swahili: -maliza
 English: to finish, to end, to conclude; to consume
@@ -4806,3 +4851,144 @@ English: tip, gratuity
 ---
 Swahili: kitana
 English: comb
+---
+Swahili: kipodozi
+English: makeup
+---
+Swahili: urembo
+English: a beautiful thing; decoration
+---
+Swahili: -remba
+English: to beautify, to decorate
+---
+Swahili: sababu
+English: reason; motive; cause
+---
+Swahili: shirika
+English: organization, business
+---
+Swahili: -wasili
+English: to arrive
+---
+Swahili: akili
+English: mind; common sense
+---
+Swahili: afya ya akili
+English: mental health
+---
+Swahili: glavu
+English: glove
+---
+Swahili: -chokoza
+English: to provoke; to tease
+---
+Swahili: mchokozi
+English: aggressor; annoying person
+---
+Swahili: uchokozi
+English: aggression, provocation
+---
+Swahili: -pumua
+English: to breath, to rest
+---
+Swahili: pumzi
+English: breath
+---
+Swahili: -ganda
+English: to coagulate; to freeze; to spoil (when food goes bad)
+---
+Swahili: ganda
+English: bark, peel, husk, eggshell
+---
+Swahili: tawi
+English: branch (tree or organization)
+---
+Swahili: jukwaa
+English: platform, podium
+---
+Swahili: kaango
+English: cooking pot
+---
+Swahili: kikaango
+English: frying pan
+---
+Swahili: -sugua
+English: to rub, to scrub; to clean by rubbing
+---
+Swahili: -zima
+English: whole, entire, full; mature, fully grown; (in greetings) well
+---
+Swahili: -chuma
+English: to gather, to collect; to earn
+---
+Swahili: chuma
+English: iron, metal
+---
+Swahili: uchumi
+English: economy; economics
+---
+Swahili: -a kiuchumi
+English: economic
+---
+Swahili: dalili
+English: sign, symptom, indication, omen; mark, trace, clue
+---
+Swahili: bendera
+English: flag, banner
+---
+Swahili: bango
+English: poster, advertisement, display board, billboard
+---
+Swahili: karani
+English: clerk; secretary
+---
+Swahili: tangi
+English: tank, reservoir (container)
+---
+Swahili: kondakta
+English: conductor
+---
+Swahili: rubani
+English: pilot
+---
+Swahili: -endesha
+English: to drive (a vehicle); to manage; to pressurize; (medicine) to have diarrhea
+---
+Swahili: mraba
+English: square, rectangle
+---
+Swahili: -ondoka
+English: to leave, to depart; to rise, to get up
+---
+Swahili: darasa
+English: classroom; class period; lesson
+---
+Swahili: tambarare
+English: plain, flat country
+---
+Swahili: hakika
+English: fact, certainty
+---
+Swahili: -weka
+English: to put; to establish; to keep; to delay
+---
+Swahili: -vuta
+English: to pull; to attract; to haul, to drag; to inhale
+---
+Swahili: -chache
+English: few
+---
+Swahili: haba
+English: few; rare
+---
+Swahili: duka la dawa
+English: pharmacy, drug store
+---
+Swahili: tangu lini
+English: since when?
+---
+Swahili: -chora
+English: to draw
+---
+Swahili: tena
+English: again, moreover
