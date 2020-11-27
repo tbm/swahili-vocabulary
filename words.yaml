@@ -176,10 +176,23 @@ English: one-fourth; a quarter
 Tags:
     - number
 ---
-Swahili: kasa robo
-English: three-fourths
+Swahili: theluthi
+English: one third (1/3)
 Tags:
     - number
+---
+Swahili: theluthi mbili
+English: two third (2/3)
+Tags:
+    - number
+---
+Swahili: robo tatu
+English: three fourths (3/4)
+Tags:
+    - number
+---
+Swahili: kasa robo
+English: three fourths (3/4) [time]
 ---
 Swahili: mimi
 English: I
@@ -597,6 +610,9 @@ English: main course
 Swahili: kianzio
 English: appetizer
 ---
+Swahili: kitoweo
+English: side dish (i.e. meat or fish; ugali is the main dish)
+---
 Swahili: kinywaji
 English: drink (noun), beverage
 Tags:
@@ -892,6 +908,18 @@ Tags:
     - noun
     - food
 ---
+Swahili: pilipili hoho
+English: hot pepper, green pepper
+Tags:
+    - noun
+    - food
+---
+Swahili: pilipili manga
+English: black pepper
+Tags:
+    - noun
+    - food
+---
 Swahili: chumvi
 Alternative: munyu
 English: salt
@@ -1016,9 +1044,6 @@ English: jack fruit
 ---
 Swahili: muwa
 English: sugar cane
----
-Swahili: pilipili hoho
-English: bell pepper
 ---
 Swahili: mawese
 English: palm oil
@@ -1274,6 +1299,9 @@ Tags:
     - tourism
     - travel
     - Bubble-Bath
+---
+Swahili: mapokezi
+English: reception (reception desk)
 ---
 Swahili: dirisha
 English: window (in a building)
@@ -1860,6 +1888,9 @@ English: night, nighttime
 Tags:
     - time
 ---
+Swahili: majira
+English: season; period of time; time (measured by clock)
+---
 Swahili: usiku wa leo
 English: tonight
 Tags:
@@ -1891,6 +1922,9 @@ English: guest, stranger, foreigner
 Tags:
     - noun
     - travel
+---
+Swahili: utalii
+English: tourism
 ---
 Swahili: mzungu
 English: European, white person
@@ -3098,6 +3132,7 @@ Swahili: wema
 English: goodness; kindness
 ---
 Swahili: pekee
+Alternative: tu
 English: only
 ---
 Swahili: dereva
@@ -3460,7 +3495,7 @@ Tags:
     - verb
 ---
 Swahili: -simama
-English: to stand
+English: to stand; to be steady, to be still; to stop
 Tags:
     - verb
 ---
@@ -4098,6 +4133,9 @@ English: by, with; for; from
 ---
 Swahili: -ota
 English: to dream
+---
+Swahili: ndoto
+English: dream
 ---
 Swahili: -umwa
 English: to be in pain, to ache, to be sick
@@ -4918,7 +4956,7 @@ English: frying pan
 Swahili: -sugua
 English: to rub, to scrub; to clean by rubbing
 ---
-Swahili: -zima
+Swahili: -zima (adjective)
 English: whole, entire, full; mature, fully grown; (in greetings) well
 ---
 Swahili: -chuma
@@ -5007,3 +5045,117 @@ English: to set something on fire; (by extension) to turn on; to enable
 ---
 Swahili: -futa
 English: to abolish, delete, remove, obliterate; to wipe clean
+---
+Swahili: -shupavu
+English: tough, strong, hard
+---
+Swahili: wingu
+English: cloud
+---
+Swahili: hongera
+English: congratulations!
+---
+Swahili: sanifu
+English: standard, proper; artfully made
+---
+Swahili: -sanifu
+English: to compose with skill
+---
+Swahili: jicho
+English: eye
+---
+Swahili: lengo
+English: target, objective
+---
+Swahili: jokofu
+English: refrigerator
+---
+Swahili: mzigo
+English: luggage; load, burden
+---
+Swahili: -shiriki
+English: to participate (to join in, to take part, to involve oneself)
+---
+Swahili: mpira
+English: ball, rubber, soccer/football
+---
+Swahili: namna
+English: way, manner
+---
+Swahili: mwenyeji
+English: resident
+---
+Swahili: -tolewa
+English: "Passive form of -toa: to be produced, to be given out, to be published"
+---
+Swahili: -kanda
+English: to knead, to massage
+---
+Swahili: ukanda
+English: belt, strap; zone, region
+---
+Swahili: -chukua
+English: to take (into possession); to carry, bring, take along
+---
+Swahili: -omba
+English: to ask (to make a request)
+---
+Swahili: kalamu
+English: pen
+---
+Swahili: -zima (verb)
+English: to turn off, extinguish, quell
+---
+Swahili: -pokea
+English: to receive, to get
+---
+Swahili: -badili
+English: to change, to exchange
+---
+Swahili: badili
+English: alteration, modification; exchange; innovation
+---
+Swahili: shamba
+English: garden, farm field, plantation; (in plural) the countryside
+---
+Swahili: kabla ya
+English: before (previously)
+---
+Swahili: kwamba
+English: that (connecting a clause)
+---
+Swahili: kasoro
+English: defect, error, fault, blemish; less; except
+---
+Swahili: kesho kutwa
+English: day after tomorrow
+---
+Swahili: ama ... ama
+English: either... or
+---
+Swahili: wala ... wala
+English: neither... nor
+---
+Swahili: huku
+English: while (during the same time that)
+---
+Swahili: -oa
+English: to marry a woman (used only of a man)
+---
+Swahili: -olewa
+English: to become married, to be wed to a husband (of a woman, to take a husband)
+---
+Swahili: mtumishi
+English: servant
+---
+Swahili: -wezekana
+English: to be possible
+---
+Swahili: moja kwa moja
+English: straight on; direct
+---
+Swahili: -teremka
+English: to descend
+---
+Swahili: maharage
+English: beans
