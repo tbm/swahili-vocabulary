@@ -400,6 +400,9 @@ English: snake
 Swahili: nzi
 English: fly
 ---
+Swahili: mende
+English: cockroach
+---
 Swahili: -tulia
 English: to relax
 ---
@@ -821,6 +824,9 @@ English: avocado
 Tags:
     - noun
     - food
+---
+Swahili: zeituni
+English: olive
 ---
 Swahili: maji
 English: water; any liquid
@@ -1514,6 +1520,9 @@ English: leg
 Swahili: kichwa
 English: head
 ---
+Swahili: kifua
+English: chest
+---
 Swahili: uso
 English: face
 ---
@@ -1672,6 +1681,12 @@ Tags:
 Swahili: wiki
 Alternative: juma
 English: week
+Tags:
+    - noun
+    - time
+---
+Swahili: wikendi
+English: weekend
 Tags:
     - noun
     - time
@@ -2199,6 +2214,9 @@ Swahili: -kubali
 English: to accept, acknowledge, agree, admit
 Tags:
     - verb
+---
+Swahili: kibali
+English: acceptance, approval, permit, permission
 ---
 Swahili: -fikiri
 English: to think, ponder
@@ -3133,8 +3151,10 @@ Swahili: wema
 English: goodness; kindness
 ---
 Swahili: pekee
-Alternative: tu
 English: only
+---
+Swahili: tu
+English: only, just
 ---
 Swahili: dereva
 English: driver
@@ -3214,7 +3234,7 @@ English: chance, opportunity; space (extent of time or space)
 Swahili: -mojawapo
 English: one of the... (e.g. one of the factors)
 ---
-Swahili: sawa
+Swahili: sawa; haya
 English: okay; equal
 ---
 Swahili: sawa na (e.g. sawa na kubwa)
@@ -3358,6 +3378,9 @@ Tags:
 Swahili: sikio
 English: ear
 ---
+Swahili: -sikiliza
+English: to listen
+---
 Swahili: -penda
 English: to love, to like, be pleasant
 Tags:
@@ -3445,6 +3468,9 @@ English: transportation
 ---
 Swahili: safari
 English: journey, trip; time or instance
+---
+Swahili: abiria
+English: passenger
 ---
 Swahili: -faulu
 English: to succeed, to pass an exam
@@ -3713,6 +3739,9 @@ English: debt
 Swahili: dunia
 English: world
 ---
+Swahili: ulimwengu
+English: world; universe
+---
 Swahili: faida
 English: profit, benefit
 ---
@@ -3793,7 +3822,7 @@ Swahili: mandhari
 English: view, scenery
 ---
 Swahili: mbali
-English: far, distant
+English: far, distant; differently, in varied ways; utterly, completely
 ---
 Swahili: kiongozi
 English: leader
@@ -3878,6 +3907,9 @@ English: politics
 ---
 Swahili: mwanasiasa
 English: politician
+---
+Swahili: kisiasa
+English: political
 ---
 Swahili: tafadhali
 English: please
@@ -4621,6 +4653,9 @@ English: project; intention; plan; because, since, so long as
 Swahili: -husu
 English: to relate, to involve, to affect
 ---
+Swahili: kuhusu
+English: involving, about
+---
 Swahili: bwawa
 English: pool, dam, swamp
 ---
@@ -4933,6 +4968,9 @@ English: to breath, to rest
 Swahili: pumzi
 English: breath
 ---
+Swahili: -pumzika
+English: to rest, to retire
+---
 Swahili: -ganda
 English: to coagulate; to freeze; to spoil (when food goes bad)
 ---
@@ -5184,3 +5222,93 @@ English: piece
 ---
 Swahili: basi (conjunction)
 English: well; then; so
+---
+Swahili: muhimu
+English: important
+---
+Swahili: jumla
+English: together; sum, total
+---
+Swahili: kipindi
+English: period (a length of time); radio program
+---
+Swahili: kuliko
+English: than (used to form comparisons), more than, greater
+---
+Swahili: -ingine
+English: other, another
+---
+Swahili: upishi
+English: cooking, cookery
+---
+Swahili: fumbo
+English: parable, metaphor, puzzle, riddle
+---
+Swahili: -fumba
+English: to shut closed; to mystify or elude
+---
+Swahili: maarufu
+English: popular, famous, distinguished, known as
+---
+Swahili: mfereji
+English: canal, water tap
+---
+Swahili: mkeka
+English: mat
+---
+Swahili: umbo
+English: shape
+---
+Swahili: tokeo
+English: result
+---
+Swahili: operesheni
+English: operation
+---
+Swahili: alfabeti
+English: alphabet
+---
+Swahili: vokali
+English: vowel
+---
+Swahili: konsonanti
+English: consonant
+---
+Swahili: urefu
+English: height; length; depth
+---
+Swahili: aina
+English: kind, type; species, breed
+---
+Swahili: -baini
+English: to understand, to comprehend
+---
+Swahili: -bainisha
+English: to specify, to point out, to highlight
+---
+Swahili: -fuga
+English: to keep (livestock)
+---
+Swahili: -chana
+English: to tear, to separate; to comb
+---
+Swahili: majadiliano
+English: discussion, debate
+---
+Swahili: msururu
+English: a row or line (a number of things that follow on one after the other)
+---
+Swahili: ahadi
+English: promise (vow)
+---
+Swahili: tukio
+English: event; occurrence
+---
+Swahili: suala
+English: question, problem, issue
+---
+Swahili: jamii
+English: community, society; all (of something), totality, sum, a category; together
+---
+Swahili: -jamii
+English: to have sex, to copulate
