@@ -238,6 +238,9 @@ English: goodbye
 Tags:
     - greeting
 ---
+Swahili: kila la kheri
+English: all the best
+---
 Swahili: ndiyo
 Alternative: ndio
 English: "yes"
@@ -404,6 +407,7 @@ Swahili: nyuki
 English: bee
 ---
 Swahili: mende
+Alternative: kombamwiko
 English: cockroach
 ---
 Swahili: -tulia
@@ -1895,6 +1899,18 @@ English: always
 Tags:
     - time
 ---
+Swahili: mwaka uliopita
+English: last year
+---
+Swahili: mwezi uliopita
+English: last month
+---
+Swahili: wiki iliopita
+English: last week
+---
+Swahili: usiku uliopita
+English: last night
+---
 Swahili: asubuhi
 English: morning
 Tags:
@@ -2387,7 +2403,10 @@ Tags:
     - verb
 ---
 Swahili: mwisho
-English: the end
+English: end
+---
+Swahili: -mwisho
+English: final, last
 ---
 Swahili: kwisha
 English: already (Tanzania)
@@ -2752,6 +2771,9 @@ English: music
 ---
 Swahili: picha
 English: picture
+---
+Swahili: -piga picha
+English: to take a picture
 ---
 Swahili: soksi
 English: sock
@@ -3672,6 +3694,9 @@ Tags:
 Swahili: -lewa
 English: be drunk
 ---
+Swahili: -piga maji
+English: to drink alcoholic beverages
+---
 Swahili: -agiza
 English: to order
 ---
@@ -4077,6 +4102,9 @@ English: patience
 Swahili: -piga simu
 English: to make a phone call
 ---
+Swahili: -piga hodi
+English: to request entrance; to say hodi
+---
 Swahili: aisee
 English: used to express surprise or a strong emotion
 ---
@@ -4106,6 +4134,9 @@ English: always, forever; constantly, continually
 ---
 Swahili: kodi
 English: rent, fee, lease, tax, commission
+---
+Swahili: -kodi
+English: to rent
 ---
 Swahili: -ridhi
 English: to approve, consent, satisfy, please
@@ -4350,6 +4381,9 @@ English: safe, secure; safely, securely
 ---
 Swahili: gani
 English: what, (of) which
+---
+Swahili: -pi
+English: Suffix used as an alternative to gani to more specifically say "which" of a known noun class
 ---
 Swahili: -ema
 English: good; having intrinsic value (e.g. decent (of a person) or healthy (of food))
@@ -5022,6 +5056,9 @@ English: breath
 Swahili: -pumzika
 English: to rest, to retire
 ---
+Swahili: -bovu
+English: rotten; overripe
+---
 Swahili: -ganda
 English: to coagulate; to freeze; to spoil (when food goes bad)
 ---
@@ -5385,6 +5422,9 @@ English: to suffice, to be adequate, to be enough
 Swahili: -embamba
 English: narrow, thin
 ---
+Swahili: -pana
+English: wide
+---
 Swahili: -erevu
 English: clever, intelligent, smart; craft, cunning
 ---
@@ -5471,3 +5511,36 @@ English: earring
 ---
 Swahili: -leta
 English: to bring
+---
+Swahili: chama
+English: organization, society; union; political party; club
+---
+Swahili: -pota
+English: to lose; to ruin; to distort
+---
+Swahili: -potea
+English: to be lost
+---
+Swahili: -poteza
+English: to lose something
+---
+Swahili: -punguza
+English: to reduce, to lower, to decrease, to diminish
+---
+Swahili: -pita
+English: to pass, to exceed, to surpass; (euphemism) to die
+---
+Swahili: maridadi
+English: stylish, modern, elegant; smartness (being fashionable)
+---
+Swahili: ua
+English: flower
+---
+Swahili: -ua
+English: to kill
+---
+Swahili: jiwe
+English: stone (rock); (figurative) difficulty
+---
+Swahili: mazingira
+English: environment
