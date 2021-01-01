@@ -45,12 +45,12 @@ VOCAB_REVERSE = genanki.Model(
         {
             "name": "Vocabulary Card (front)",
             "qfmt": "{{Swahili}}<br />{{Swahili_Audio}}",
-            "afmt": "{{FrontSide}}<hr id=\"answer\">{{English}}",
+            "afmt": '{{FrontSide}}<hr id="answer">{{English}}',
         },
         {
             "name": "Vocabulary Card (back)",
             "qfmt": "{{English}}",
-            "afmt": "{{FrontSide}}<hr id=\"answer\">{{Swahili}}<br />{{Swahili_Audio}}",
+            "afmt": '{{FrontSide}}<hr id="answer">{{Swahili}}<br />{{Swahili_Audio}}',
         },
     ],
     css=STYLE,
@@ -74,7 +74,7 @@ GRAMMAR = genanki.Model(
         {
             "name": "Grammar Card",
             "qfmt": "{{English}}<hr>{{cloze:Swahili}}",
-            "afmt": "{{English}}<hr id=\"answer\">{{cloze:Swahili}}<p class=footer>{{Lesson}}</p>",
+            "afmt": '{{English}}<hr id="answer">{{cloze:Swahili}}<p class=footer>{{Lesson}}</p>',
         },
     ],
     css=STYLE,

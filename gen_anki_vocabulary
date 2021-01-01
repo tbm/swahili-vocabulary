@@ -43,7 +43,8 @@ def main():
             note = VocabNote(
                 model=VOCAB_REVERSE,
                 fields=[word["Swahili"], word["English"], audio],
-                tags=word.get("Tags"))
+                tags=word.get("Tags"),
+            )
             deck.add_note(note)
     swahili.write_to_file(output)
     print(f"Created deck with {len(deck.notes)} notes")

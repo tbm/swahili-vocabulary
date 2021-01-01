@@ -15,22 +15,21 @@ def main():
     Generate Anki deck
     """
 
-    deck = genanki.Deck(
-        1597659034800,
-        "Swahili Grammar: Intro and Intermediate")
+    deck = genanki.Deck(1597659034800, "Swahili Grammar: Intro and Intermediate")
 
     with open("grammar-almas-intro-and-intermediate.yaml") as word_file:
         words = yaml.load_all(word_file, Loader=yaml.SafeLoader)
         for word in words:
             tags = word.get("Tags", [])
             if "Lesson" in word:
-                chapter = word["Lesson"].split(',', 1)[0]
-                chapter = chapter.lower().replace(' ', '')
+                chapter = word["Lesson"].split(",", 1)[0]
+                chapter = chapter.lower().replace(" ", "")
                 tags.append(chapter)
             note = genanki.Note(
                 model=GRAMMAR,
                 fields=[word["Swahili"], word["English"], word["Lesson"]],
-                tags=tags)
+                tags=tags,
+            )
             deck.add_note(note)
 
     output = "swahili-grammar.apkg"
