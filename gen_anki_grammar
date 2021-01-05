@@ -3,6 +3,7 @@
 Generate Anki deck for Swahili grammar
 """
 
+import pathlib
 import yaml
 
 import genanki
@@ -17,7 +18,8 @@ def main():
 
     deck = genanki.Deck(1597659034800, "Swahili Grammar: Intro and Intermediate")
 
-    with open("grammar-almas-intro-and-intermediate.yaml") as word_file:
+    infile = pathlib.Path("grammar-almas-intro-and-intermediate.yaml")
+    with open(infile) as word_file:
         words = yaml.load_all(word_file, Loader=yaml.SafeLoader)
         for word in words:
             tags = word.get("Tags", [])
@@ -33,7 +35,7 @@ def main():
             deck.add_note(note)
 
     output = "swahili-grammar.apkg"
-    genanki.Package(deck).write_to_file(output)
+    genanki.Package(deck).write_to_file(output, timestamp=infile.stat().st_mtime)
     print(f"Created deck with {len(deck.notes)} notes")
 
 

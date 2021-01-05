@@ -4,6 +4,7 @@ Generate Anki deck with Swahili vocabulary based on the words in
 words.yaml.
 """
 
+import pathlib
 import random
 import yaml
 
@@ -30,9 +31,10 @@ def main():
 
     deck = genanki.Deck(1597659028800, "Swahili Vocabulary")
 
+    infile = pathlib.Path("words.yaml")
     output = "swahili-vocabulary.apkg"
     swahili = genanki.Package(deck)
-    with open("words.yaml") as word_file:
+    with open(infile) as word_file:
         words = list(yaml.load_all(word_file, Loader=yaml.SafeLoader))
         random.shuffle(words)
         for word in words:
@@ -46,7 +48,7 @@ def main():
                 tags=word.get("Tags"),
             )
             deck.add_note(note)
-    swahili.write_to_file(output)
+    swahili.write_to_file(output, timestamp=infile.stat().st_mtime)
     print(f"Created deck with {len(deck.notes)} notes")
 
 
