@@ -230,6 +230,11 @@ English: welcome; come in; you're welcome; nearby
 Tags:
     - greeting
 ---
+Swahili: u hali gani
+English: how are you?
+Tags:
+    - greeting
+---
 Swahili: heri
 English: happiness; better (when beginning a clause, "it is better that...")
 ---
@@ -2191,6 +2196,12 @@ English: to cook
 Tags:
     - verb
 ---
+Swahili: -elea
+English: to float; to levitate; to feel nauseous; to be clear, to be comprehensible
+---
+Swahili: -elewa
+English: to understand, to comprehend
+---
 Swahili: -eleza
 English: to explain
 Tags:
@@ -2555,6 +2566,12 @@ English: help
 ---
 Swahili: dharura
 English: emergency
+---
+Swahili: -gonjwa
+English: sick; ill
+---
+Swahili: mgonjwa
+English: sick person, patient
 ---
 Swahili: ugonjwa
 English: disease; ailment
@@ -5014,6 +5031,9 @@ English: net
 Swahili: -nuka
 English: to smell, to stink
 ---
+Swahili: -nukia
+English: to smell good
+---
 Swahili: vumbi
 English: powder, dust
 ---
@@ -5646,3 +5666,12 @@ English: different, diverse, various
 ---
 Swahili: pumziko
 English: pause, break
+---
+Swahili: -onekana
+English: to be visible, to be apparent
+---
+Swahili: -enye
+English: "The ornative particle: having, possessing, with"
+---
+Swahili: plastiki
+English: plastic
