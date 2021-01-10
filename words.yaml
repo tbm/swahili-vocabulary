@@ -1916,6 +1916,12 @@ English: last week
 Swahili: usiku uliopita
 English: last night
 ---
+Swahili: mwaka ujao
+English: next year
+---
+Swahili: wiki ijayo
+English: next week
+---
 Swahili: alfajiri
 English: dawn, early morning
 ---
@@ -2303,6 +2309,11 @@ English: to be
 Tags:
     - verb
 ---
+Swahili: -wa na
+English: to have
+Tags:
+    - verb
+---
 Swahili: -nywa
 English: to drink
 Tags:
@@ -2310,6 +2321,11 @@ Tags:
 ---
 Swahili: -nya
 English: to rain, to discharge or release liquid
+Tags:
+    - verb
+---
+Swahili: -nyesha
+English: to rain hard, to come down in torrents
 Tags:
     - verb
 ---
@@ -2731,6 +2747,9 @@ English: key
 ---
 Swahili: hali
 English: situation, state, condition
+---
+Swahili: hali ya hewa
+English: weather
 ---
 Swahili: kimya
 English: silence
@@ -3859,6 +3878,9 @@ English: sex, gender
 Swahili: kamwe
 English: never
 ---
+Swahili: pengine
+English: sometimes
+---
 Swahili: kichekesho
 English: joke, humour
 ---
@@ -4263,6 +4285,9 @@ English: by, with; for; from
 Swahili: -ota
 English: to dream
 ---
+Swahili: -o-ote
+English: any
+---
 Swahili: ndoto
 English: dream
 ---
@@ -4629,6 +4654,9 @@ English: mask, veil, face covering
 ---
 Swahili: -vaa
 English: to wear, to get dressed
+---
+Swahili: -vua
+English: to undress, to take off clothes; to fish
 ---
 Swahili: zinaa
 English: fornication, adultery
@@ -5283,6 +5311,9 @@ English: to change, to exchange
 Swahili: badili
 English: alteration, modification; exchange; innovation
 ---
+Swahili: badiliko
+English: change; transformation
+---
 Swahili: shamba
 English: garden, farm; field, plantation; (in plural) the countryside
 ---
@@ -5675,3 +5706,24 @@ English: "The ornative particle: having, possessing, with"
 ---
 Swahili: plastiki
 English: plastic
+---
+Swahili: tarabitu
+English: carefully, slowly; pattern, method, organisation
+---
+Swahili: dai
+English: claim, demand, requirement
+---
+Swahili: -dai
+English: to claim, to demand, to require
+---
+Swahili: uhakika
+English: certainty, sureness
+---
+Swahili: -gundua
+English: to find out, to discover, to create, to make up, to originate, to invent
+---
+Swahili: angalau
+English: at least, not even
+---
+Swahili: mwelekeo
+English: direction
