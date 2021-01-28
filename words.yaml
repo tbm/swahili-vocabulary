@@ -640,6 +640,30 @@ Tags:
     - noun
     - food
 ---
+Swahili: mayai ya kuchemsha
+English: boiled egg
+Tags:
+    - noun
+    - food
+---
+Swahili: mayai ya kukaanga
+English: fried egg
+Tags:
+    - noun
+    - food
+---
+Swahili: mayai ya kuvuruga
+English: scrambled egg
+Tags:
+    - noun
+    - food
+---
+Swahili: kimanda
+English: omelette
+Tags:
+    - noun
+    - food
+---
 Swahili: mkate
 English: bread
 Tags:
@@ -860,6 +884,12 @@ English: liquid
 ---
 Swahili: maji ya nazi
 English: coconut water
+Tags:
+    - noun
+    - food
+---
+Swahili: maji ya matunda
+English: fruit juice
 Tags:
     - noun
     - food
@@ -1589,6 +1619,12 @@ English: anus
 Swahili: ini
 English: liver
 ---
+Swahili: paja
+English: thigh
+---
+Swahili: paja la kuku
+English: chicken thigh
+---
 Swahili: ubongo
 English: brain
 ---
@@ -1892,6 +1928,12 @@ Swahili: mara nyingi
 English: often
 Tags:
     - time
+---
+Swahili: mara kwa mara
+English: often
+---
+Swahili: mara chache
+English: seldom
 ---
 Swahili: siku zote
 English: always
@@ -2549,9 +2591,6 @@ English: American (USA)
 ---
 Swahili: Mswahili
 English: Swahili person
----
-Swahili: kutoka
-English: from
 ---
 Swahili: daktari
 English: doctor
@@ -3466,6 +3505,9 @@ English: to prepare, to ready
 Tags:
     - verb
 ---
+Swahili: andalio
+English: preparation
+---
 Swahili: -chukia
 English: to hate
 Tags:
@@ -4271,6 +4313,9 @@ English: respect, honour, dignity
 Swahili: kontena
 English: container
 ---
+Swahili: mtu mzima
+English: adult
+---
 Swahili: kijana
 English: youth, teenager
 ---
@@ -4922,6 +4967,9 @@ English: agreement, pact
 Swahili: -amba
 English: to say, to explain
 ---
+Swahili: -ambia
+English: to tell
+---
 Swahili: amba-
 English: which; who
 ---
@@ -5140,6 +5188,9 @@ English: branch (tree or organization)
 ---
 Swahili: jukwaa
 English: platform, podium
+---
+Swahili: -kaanga
+English: to fry
 ---
 Swahili: kaango
 English: cooking pot
@@ -5743,3 +5794,72 @@ English: ferry
 ---
 Swahili: -beba
 English: to transport, to carry
+---
+Swahili: azamu
+English: duty, responsibility; turn (as in a game)
+---
+Swahili: -shtua
+English: to shock, to startle
+---
+Swahili: -shtuka
+English: to be startled, to be shocked
+---
+Swahili: -fadhaika
+English: to be confused, to be troubled, to be depressed
+---
+Swahili: -kasirika
+English: to get angry
+---
+Swahili: kwenye
+English: on, to, at, from
+---
+Swahili: kuingia
+English: entrance
+Tags:
+    - noun
+    - travel
+---
+Swahili: kutoka
+English: exit; from
+Tags:
+    - noun
+    - travel
+---
+Swahili: kufika
+English: arrival
+Tags:
+    - noun
+    - travel
+---
+Swahili: kuondoka
+English: departure
+Tags:
+    - noun
+    - travel
+---
+Swahili: kiasi
+English: approximately; amount, quantity
+---
+Swahili: -chemka
+English: to boil; (by extension) to be furious
+---
+Swahili: -chemsha
+English: to boil a liquid, to heat up a liquid
+---
+Swahili: -vuruga
+English: to mix, to stir; to disarrange, to disturb, to agitate
+---
+Swahili: vurugu
+English: disorder, confusion, trouble, riot, disturbance, violence
+---
+Swahili: karibu chakula
+English: enjoy your meal, bon appétit
+---
+Swahili: -hara
+English: to have diarrhea
+---
+Swahili: dawa ya kuhara
+English: medicine for diarrhea
+---
+Swahili: forodha
+English: customs (taxes on items entering a country)
