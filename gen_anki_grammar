@@ -18,7 +18,7 @@ def main():
 
     deck = genanki.Deck(1597659034800, "Swahili Grammar: Intro and Intermediate")
 
-    infile = pathlib.Path("grammar-almas-intro-and-intermediate.yaml")
+    infile = pathlib.Path("grammar-almasi-intro-and-intermediate.yaml")
     with open(infile) as word_file:
         words = yaml.load_all(word_file, Loader=yaml.SafeLoader)
         for word in words:
