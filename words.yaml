@@ -230,6 +230,11 @@ English: welcome; come in; you're welcome; nearby
 Tags:
     - greeting
 ---
+Swahili: karibuni
+English: welcome! (to multiple people)
+Tags:
+    - greeting
+---
 Swahili: u hali gani
 English: how are you?
 Tags:
@@ -276,6 +281,9 @@ Tags:
 ---
 Swahili: asante
 English: thanks
+---
+Swahili: asanteni
+English: thank you (to a group)
 ---
 Swahili: shukrani
 Alternative: shukran
@@ -3098,6 +3106,9 @@ English: newspaper
 Swahili: duka
 English: shop
 ---
+Swahili: duka kubwa
+English: supermarket
+---
 Swahili: kosa
 English: mistake
 ---
@@ -3346,6 +3357,9 @@ English: to protect; to prevent, to thwart
 ---
 Swahili: pole
 English: sorry
+---
+Swahili: poleni
+English: sorry (to multiple people)
 ---
 Swahili: -pole
 English: calm, gentle
@@ -3617,6 +3631,9 @@ English: transportation
 ---
 Swahili: safari
 English: journey, trip; time or instance
+---
+Swahili: -abiri
+English: to cross (a place), to travel
 ---
 Swahili: abiria
 English: passenger
@@ -5921,3 +5938,18 @@ English: land; earth
 ---
 Swahili: -ungana
 English: to join
+---
+Swahili: kisha
+English: then, subsequently, afterwards
+---
+Swahili: -wahi
+English: to be early
+---
+Swahili: -paza sauti
+English: to shout
+---
+Swahili: -panga
+English: to arrange, classify, plan, organize, set up
+---
+Swahili: -okoa
+English: to rescue, to save; to preserve
