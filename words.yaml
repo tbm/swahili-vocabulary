@@ -2625,7 +2625,7 @@ Tags:
     - medical
 ---
 Swahili: msaada
-English: help
+English: help; assistance
 ---
 Swahili: dharura
 English: emergency
@@ -4011,6 +4011,12 @@ English: far, distant; differently, in varied ways; utterly, completely
 Swahili: umbali
 English: distance
 ---
+Swahili: -ongoza
+English: to lead
+---
+Swahili: uongozi
+English: leadership
+---
 Swahili: kiongozi
 English: leader
 ---
@@ -4511,6 +4517,9 @@ English: knowledge, understanding, comprehension; consciousness
 ---
 Swahili: salama
 English: safe, secure; safely, securely
+---
+Swahili: usalama
+English: safety, security
 ---
 Swahili: gani
 English: what, (of) which
@@ -5414,6 +5423,9 @@ English: day after tomorrow
 Swahili: ama ... ama
 English: either... or
 ---
+Swahili: wala
+English: nor, and not
+---
 Swahili: wala ... wala
 English: neither... nor
 ---
@@ -5974,3 +5986,84 @@ English: special, distinguished, famous, well-known; certainly
 ---
 Swahili: mchanganyiko
 English: mixture (something that consists of diverse elements)
+---
+Swahili: fani
+English: successful, prosperous; worthy; field or discipline
+---
+Swahili: juhudi
+English: effort, hard work, diligence, enthusiasm
+---
+Swahili: -linga
+English: to compare, to match
+---
+Swahili: licha
+English: despite; let alone
+---
+Swahili: hata
+English: even; until; in order that
+---
+Swahili: ila
+English: except; (after si) not only those, but also
+---
+Swahili: pamoja
+English: together
+---
+Swahili: taarifa
+English: headline (heading or title of an article); report, communique, notice (piece of information); something well known, statement
+---
+Swahili: hatua
+English: step, pace; action, measure; development, progress
+---
+Swahili: -taja
+English: to mention, to announce
+---
+Swahili: wilaya
+English: district (area or region)
+---
+Swahili: haki
+English: right (something one is legally entitled to); (usually in the plural) rights; justice
+---
+Swahili: -shinda
+English: to win; to conquer, to overpower; to surpass
+---
+Swahili: mkazi
+English: resident (person living at a location or an area)
+---
+Swahili: -sababisha
+English: to cause, to make happen
+---
+Swahili: rais
+English: president (the head of state of a republic)
+---
+Swahili: kamati
+English: committee
+---
+Swahili: -ongoa
+English: to improve, to train; to prosper
+---
+Swahili: silaha
+English: weapon
+---
+Swahili: kitendo
+English: act, action (a deed, something done)
+---
+Swahili: matumizi
+English: usage (account of using); examples; expenses (that which has been spent)
+---
+Swahili: -pinga
+English: to oppose, to oppose; to obstruct, to block
+---
+Swahili: -tekeleza
+English: to implement, to execute (carry out)
+---
+Swahili: -zuia
+English: to prevent; to keep back, to restrain, to control
+---
+Swahili: -kamata
+English: to catch; to hold (grasp); to seize (take possession of)
+---
+Swahili: -hakiki
+English: to ascertain, to establish, to determine; to criticize, to evaluate, to review critically
+---
+Swahili: lazima
+English: necessarily
