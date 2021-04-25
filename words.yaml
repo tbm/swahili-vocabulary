@@ -1635,6 +1635,9 @@ English: anus
 Swahili: ini
 English: liver
 ---
+Swahili: msuli
+English: muscle
+---
 Swahili: mfupa
 English: bone
 ---
@@ -1658,6 +1661,9 @@ English: eyebrow
 ---
 Swahili: goti
 English: knee
+---
+Swahili: -piga magoti
+English: to kneel down
 ---
 Swahili: kidevu
 English: chin
@@ -2686,6 +2692,9 @@ English: fever
 Swahili: kidonda
 English: wound
 ---
+Swahili: upasuaji
+English: surgery
+---
 Swahili: kikohozi
 English: cough
 ---
@@ -3095,6 +3104,12 @@ English: passport
 Tags:
     - travel
     - Bubble-Bath
+---
+Swahili: pasi
+English: pass; passport; iron (for pressing clothes)
+---
+Swahili: -piga pasi
+English: to iron clothes
 ---
 Swahili: tiketi
 English: ticket
@@ -6474,3 +6489,16 @@ English: decoration (that which adorns)
 ---
 Swahili: kitambulisho
 English: ID card; identifier
+---
+Swahili: chafya
+English: sneezing
+---
+Swahili: -chafya
+Alternative: -piga chafya
+English: to sneeze
+---
+Swahili: mwayo
+English: yawn
+---
+Swahili: -piga miayo
+English: to yawn
