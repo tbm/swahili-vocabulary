@@ -251,6 +251,16 @@ Tags:
 Swahili: kila la kheri
 English: all the best
 ---
+Swahili: shikamoo
+English: greeting (respectful; to elders)
+Tags:
+    - greeting
+---
+Swahili: marahaba
+English: response to shikamoo
+Tags:
+    - greeting
+---
 Swahili: ndiyo
 Alternative: ndio
 English: "yes"
@@ -3352,7 +3362,7 @@ Swahili: wakili
 English: lawyer
 ---
 Swahili: shahidi
-English: witness
+English: witness; martyr
 ---
 Swahili: mfanyabiashara
 English: business person
@@ -3371,6 +3381,12 @@ English: waiter
 ---
 Swahili: huduma
 English: service, aid
+---
+Swahili: -ugua
+English: to be ill, ailing, or sick
+---
+Swahili: -uguza
+English: to nurse (ill person)
 ---
 Swahili: muuguzi
 English: nurse, healer
@@ -3691,6 +3707,9 @@ Tags:
     - verb
 ---
 Swahili: jaribu
+English: test, trial; experiment; attempt
+---
+Swahili: jaribio
 English: test, trial; experiment; attempt
 ---
 Swahili: -jibu
@@ -5708,6 +5727,9 @@ English: Followed by a possessive adjective in the singular N class to mean that
 Swahili: -angalia
 English: to look, to observe, to watch
 ---
+Swahili: -angalifu
+English: careful, observant, attentive; accurate
+---
 Swahili: uchanganuzi
 English: analysis
 ---
@@ -6173,6 +6195,9 @@ English: institution; institute
 Swahili: -tegemea
 English: to depend on something or someone (to rely on; to trust); to anticipate something
 ---
+Swahili: tegemeo
+English: support, expectation
+---
 Swahili: -tambua
 English: to recognize; to perceive
 ---
@@ -6207,7 +6232,7 @@ Swahili: madhumuni
 English: intent, purpose, aim
 ---
 Swahili: -egemea
-English: to lean on
+English: to lean on, to rest on, to incline on
 ---
 Swahili: -anzia
 English: to emanate, to start at some place
@@ -6429,6 +6454,9 @@ English: needle; injection
 Swahili: -hama
 English: to move, to emigrate, to evacuate
 ---
+Swahili: -hamia
+English: to move to a place
+---
 Swahili: hamali
 English: porter, carrier
 ---
@@ -6471,3 +6499,33 @@ English: yawn
 ---
 Swahili: -piga miayo
 English: to yawn
+---
+Swahili: soni
+English: shyness, shame, bashfulness, disgrace
+---
+Swahili: mashindano
+English: contest, competition
+---
+Swahili: msalaba
+English: cross (geometrical figure), cross (cross-shaped wooden post), cross (Christian symbol)
+---
+Swahili: malaika
+English: angel (messenger from a deity); angel (term of affection)
+---
+Swahili: -zurura
+English: to wander, to wander around, to roam; to loiter
+---
+Swahili: burudani
+English: entertainment
+---
+Swahili: chifu
+English: chief, head (of an organisation)
+---
+Swahili: dhana
+English: presumption or assumption; concept, belief, or thought
+---
+Swahili: mtaalam
+English: expert
+---
+Swahili: masafa
+English: distance
