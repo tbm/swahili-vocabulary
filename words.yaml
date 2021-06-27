@@ -1540,7 +1540,14 @@ Swahili: kijiti
 English: stick, branch
 ---
 Swahili: pwani
-English: beach
+English: beach, coast, shore
+Tags:
+    - noun
+    - place
+---
+Swahili: ufuko
+Alternative: ufukwe, ufuo
+English: beach (in particular, the sandy berm)
 Tags:
     - noun
     - place
@@ -1973,7 +1980,7 @@ Tags:
     - time
 ---
 Swahili: mara kwa mara
-English: often
+English: from time to time (occasionally), sometimes; often
 ---
 Swahili: mara chache
 English: seldom
@@ -2548,6 +2555,9 @@ Swahili: -choka
 English: to tire, become exhausted, wear out
 Tags:
     - verb
+---
+Swahili: uchovu
+English: fatigue, tiredness, exhaustion
 ---
 Swahili: -rudia
 English: to redo, to repeat
@@ -4399,7 +4409,7 @@ Swahili: hii
 English: this
 ---
 Swahili: hadi
-English: until
+English: until, up to, till (both space and time)
 ---
 Swahili: mboga kabisa
 English: very simple; piece of cake
@@ -5430,7 +5440,7 @@ Swahili: -chora
 English: to draw
 ---
 Swahili: tena
-English: again, moreover
+English: again, moreover; (in a negative sentence) again, anymore
 ---
 Swahili: -fagia
 English: to sweep; to remove
@@ -6621,3 +6631,24 @@ English: a certain thing, esp. a person; somebody
 ---
 Swahili: fulani (adjective)
 English: certain (particular)
+---
+Swahili: -kua
+English: to grow (to become bigger)
+---
+Swahili: -kuza
+English: to enlarge, to inflate; to glorify, to praise; to develop
+---
+Swahili: kifurushi
+English: parcel, package, packet
+---
+Swahili: -tatua
+English: to untangle, to disentangle; to resolve
+---
+Swahili: bili
+English: bill, invoice
+---
+Swahili: kasi (noun)
+English: speed (rapidity), force (strength or energy of body or mind)
+---
+Swahili: kasi (adverb)
+English: quickly (very fast)
