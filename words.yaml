@@ -2405,7 +2405,7 @@ Tags:
     - verb
 ---
 Swahili: -la
-English: to eat
+English: to eat; (by extension) to consume, to eradicate
 Tags:
     - verb
 ---
@@ -4086,7 +4086,7 @@ Swahili: -hesabu
 English: to calculate, to count
 ---
 Swahili: hesabu
-English: bill, account, sum
+English: bill, account; sum, number
 ---
 Swahili: ilani
 English: notice, warning; manifesto
@@ -4172,6 +4172,9 @@ English: comfort, joy
 ---
 Swahili: ripoti
 English: report
+---
+Swahili: -ripoti
+English: to report
 ---
 Swahili: risiti
 English: receipt
@@ -6841,7 +6844,7 @@ Swahili: mwenendo
 English: behaviour, conduct
 ---
 Swahili: ufisadi
-English: corruption
+English: corruption; adultery
 ---
 Swahili: tambo
 English: distance, length, height, width
